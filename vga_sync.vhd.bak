@@ -1,0 +1,17 @@
+library ieee;
+use ieee.std_logic_1164.all;
+
+entity vga_sync is
+	port (
+		clk, reset: in std_logic;
+		hsync, vsync, video_on: out std_logic
+	);
+end vga_sync;
+
+architecture arch of vga_sync is
+
+	signal hcount
+
+begin
+
+end arch ; -- arch

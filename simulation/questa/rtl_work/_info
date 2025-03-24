@@ -1,0 +1,114 @@
+m255
+K4
+z2
+!s12c _opt
+Z0 !s99 nomlopt
+!s11e vcom 2024.3 2024.09, Sep 10 2024
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z1 d/home/muhammad-ahmed-qazi/Documents/GitHub/4-bit-VGA-Controller-on-FPGA/simulation/questa
+T_opt
+Z2 !s110 1742804015
+VS@Nm;^F@EzmR[VR[2:Uf=3
+04 11 9 work vga_sync_tb testbench 1
+=1-000ae431a4f1-67e1142f-7ad71-5b9d
+R0
+!s12f OEM100
+!s12b OEM100
+!s124 OEM10U2 
+!s135 nogc
+o-quiet -auto_acc_if_foreign -work work -L altera -L lpm -L sgate -L altera_mf -L altera_lnsim -L cyclonev -L cyclonev_hssi -L rtl_work -L work +acc
+tCvgOpt 0
+n@_opt
+OL;O;2024.3;79
+Evga_sync
+Z3 w1742803493
+Z4 DPx4 ieee 11 numeric_std 0 22 aU^R8eGcicLcUFIaBQSL>3
+Z5 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z6 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 0
+R1
+Z7 8/home/muhammad-ahmed-qazi/Documents/GitHub/4-bit-VGA-Controller-on-FPGA/vga_sync.vhd
+Z8 F/home/muhammad-ahmed-qazi/Documents/GitHub/4-bit-VGA-Controller-on-FPGA/vga_sync.vhd
+l0
+L7 1
+ViSeIm5iSLG7:G01ABLW=e0
+!s100 J<HmRSE<G>Ia=32`]Ni;^3
+Z9 OL;C;2024.3;79
+31
+R2
+!i10b 1
+Z10 !s108 1742804015.000000
+Z11 !s90 -reportprogress|300|-93|-work|work|/home/muhammad-ahmed-qazi/Documents/GitHub/4-bit-VGA-Controller-on-FPGA/vga_sync.vhd|
+Z12 !s107 /home/muhammad-ahmed-qazi/Documents/GitHub/4-bit-VGA-Controller-on-FPGA/vga_sync.vhd|
+!i113 0
+Z13 o-93 -work work
+Z14 tExplicit 1 CvgOpt 0
+Aarch
+R4
+R5
+R6
+Z15 DEx4 work 8 vga_sync 0 22 iSeIm5iSLG7:G01ABLW=e0
+!i122 0
+l34
+L15 71
+VPc2JEGXhGmSY8if18h1>k0
+!s100 Am02TcoTRaD4PlZK0^HO62
+R9
+31
+R2
+!i10b 1
+R10
+R11
+R12
+!i113 0
+R13
+R14
+Evga_sync_tb
+Z16 w1742803938
+R4
+R5
+R6
+!i122 1
+R1
+Z17 8/home/muhammad-ahmed-qazi/Documents/GitHub/4-bit-VGA-Controller-on-FPGA/vga_sync_tb.vhd
+Z18 F/home/muhammad-ahmed-qazi/Documents/GitHub/4-bit-VGA-Controller-on-FPGA/vga_sync_tb.vhd
+l0
+L5 1
+VVm^4MQAnzc42;DzbLzTgm0
+!s100 QQeo8nUj?N_@3mS8oK6M`2
+R9
+31
+R2
+!i10b 1
+R10
+Z19 !s90 -reportprogress|300|-93|-work|work|/home/muhammad-ahmed-qazi/Documents/GitHub/4-bit-VGA-Controller-on-FPGA/vga_sync_tb.vhd|
+Z20 !s107 /home/muhammad-ahmed-qazi/Documents/GitHub/4-bit-VGA-Controller-on-FPGA/vga_sync_tb.vhd|
+!i113 0
+R13
+R14
+Atestbench
+R15
+R4
+R5
+R6
+DEx4 work 11 vga_sync_tb 0 22 Vm^4MQAnzc42;DzbLzTgm0
+!i122 1
+l17
+L8 48
+Vl[B=_lQDSG>gKk[fWI>`o1
+!s100 k0gBL243d81e5P@DdME]m3
+R9
+31
+R2
+!i10b 1
+R10
+R19
+R20
+!i113 0
+R13
+R14
