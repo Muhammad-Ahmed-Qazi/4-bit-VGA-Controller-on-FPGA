@@ -27,25 +27,25 @@
 # Modifying modelsim.ini
 # vcom -93 -work altera {/home/muhammad-ahmed-qazi/intelFPGA_lite/24.1std/quartus/eda/sim_lib/altera_syn_attributes.vhd}
 # Questa Intel Starter FPGA Edition-64 vcom 2024.3 Compiler 2024.09 Sep 10 2024
-# Start time: 13:13:31 on Mar 24,2025
+# Start time: 11:56:44 on Mar 25,2025
 # vcom -reportprogress 300 -93 -work altera /home/muhammad-ahmed-qazi/intelFPGA_lite/24.1std/quartus/eda/sim_lib/altera_syn_attributes.vhd 
 # -- Loading package STANDARD
 # -- Compiling package altera_syn_attributes
-# End time: 13:13:31 on Mar 24,2025, Elapsed time: 0:00:00
+# End time: 11:56:44 on Mar 25,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # vcom -93 -work altera {/home/muhammad-ahmed-qazi/intelFPGA_lite/24.1std/quartus/eda/sim_lib/altera_standard_functions.vhd}
 # Questa Intel Starter FPGA Edition-64 vcom 2024.3 Compiler 2024.09 Sep 10 2024
-# Start time: 13:13:31 on Mar 24,2025
+# Start time: 11:56:44 on Mar 25,2025
 # vcom -reportprogress 300 -93 -work altera /home/muhammad-ahmed-qazi/intelFPGA_lite/24.1std/quartus/eda/sim_lib/altera_standard_functions.vhd 
 # -- Loading package STANDARD
 # -- Compiling package altera_standard_functions
 # -- Compiling package body altera_standard_functions
 # -- Loading package altera_standard_functions
-# End time: 13:13:31 on Mar 24,2025, Elapsed time: 0:00:00
+# End time: 11:56:44 on Mar 25,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # vcom -93 -work altera {/home/muhammad-ahmed-qazi/intelFPGA_lite/24.1std/quartus/eda/sim_lib/alt_dspbuilder_package.vhd}
 # Questa Intel Starter FPGA Edition-64 vcom 2024.3 Compiler 2024.09 Sep 10 2024
-# Start time: 13:13:31 on Mar 24,2025
+# Start time: 11:56:44 on Mar 25,2025
 # vcom -reportprogress 300 -93 -work altera /home/muhammad-ahmed-qazi/intelFPGA_lite/24.1std/quartus/eda/sim_lib/alt_dspbuilder_package.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -54,11 +54,11 @@
 # -- Compiling package alt_dspbuilder_package
 # -- Compiling package body alt_dspbuilder_package
 # -- Loading package alt_dspbuilder_package
-# End time: 13:13:31 on Mar 24,2025, Elapsed time: 0:00:00
+# End time: 11:56:44 on Mar 25,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # vcom -93 -work altera {/home/muhammad-ahmed-qazi/intelFPGA_lite/24.1std/quartus/eda/sim_lib/altera_europa_support_lib.vhd}
 # Questa Intel Starter FPGA Edition-64 vcom 2024.3 Compiler 2024.09 Sep 10 2024
-# Start time: 13:13:31 on Mar 24,2025
+# Start time: 11:56:44 on Mar 25,2025
 # vcom -reportprogress 300 -93 -work altera /home/muhammad-ahmed-qazi/intelFPGA_lite/24.1std/quartus/eda/sim_lib/altera_europa_support_lib.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -69,11 +69,11 @@
 # -- Compiling package altera_europa_support_lib
 # -- Compiling package body altera_europa_support_lib
 # -- Loading package altera_europa_support_lib
-# End time: 13:13:31 on Mar 24,2025, Elapsed time: 0:00:00
+# End time: 11:56:44 on Mar 25,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # vcom -93 -work altera {/home/muhammad-ahmed-qazi/intelFPGA_lite/24.1std/quartus/eda/sim_lib/altera_primitives_components.vhd}
 # Questa Intel Starter FPGA Edition-64 vcom 2024.3 Compiler 2024.09 Sep 10 2024
-# Start time: 13:13:31 on Mar 24,2025
+# Start time: 11:56:44 on Mar 25,2025
 # vcom -reportprogress 300 -93 -work altera /home/muhammad-ahmed-qazi/intelFPGA_lite/24.1std/quartus/eda/sim_lib/altera_primitives_components.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -83,11 +83,11 @@
 # -- Compiling package dffeas_pack
 # -- Loading package dffeas_pack
 # -- Compiling package altera_primitives_components
-# End time: 13:13:31 on Mar 24,2025, Elapsed time: 0:00:00
+# End time: 11:56:44 on Mar 25,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # vcom -93 -work altera {/home/muhammad-ahmed-qazi/intelFPGA_lite/24.1std/quartus/eda/sim_lib/altera_primitives.vhd}
 # Questa Intel Starter FPGA Edition-64 vcom 2024.3 Compiler 2024.09 Sep 10 2024
-# Start time: 13:13:31 on Mar 24,2025
+# Start time: 11:56:44 on Mar 25,2025
 # vcom -reportprogress 300 -93 -work altera /home/muhammad-ahmed-qazi/intelFPGA_lite/24.1std/quartus/eda/sim_lib/altera_primitives.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -175,7 +175,7 @@
 # -- Compiling architecture BEHAVIOR of alt_bidir_diff
 # -- Compiling entity alt_bidir_buf
 # -- Compiling architecture BEHAVIOR of alt_bidir_buf
-# End time: 13:13:31 on Mar 24,2025, Elapsed time: 0:00:00
+# End time: 11:56:44 on Mar 25,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # 
 # vlib vhdl_libs/lpm
@@ -187,17 +187,17 @@
 # Modifying modelsim.ini
 # vcom -93 -work lpm {/home/muhammad-ahmed-qazi/intelFPGA_lite/24.1std/quartus/eda/sim_lib/220pack.vhd}
 # Questa Intel Starter FPGA Edition-64 vcom 2024.3 Compiler 2024.09 Sep 10 2024
-# Start time: 13:13:31 on Mar 24,2025
+# Start time: 11:56:44 on Mar 25,2025
 # vcom -reportprogress 300 -93 -work lpm /home/muhammad-ahmed-qazi/intelFPGA_lite/24.1std/quartus/eda/sim_lib/220pack.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
 # -- Loading package std_logic_1164
 # -- Compiling package LPM_COMPONENTS
-# End time: 13:13:31 on Mar 24,2025, Elapsed time: 0:00:00
+# End time: 11:56:44 on Mar 25,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # vcom -93 -work lpm {/home/muhammad-ahmed-qazi/intelFPGA_lite/24.1std/quartus/eda/sim_lib/220model.vhd}
 # Questa Intel Starter FPGA Edition-64 vcom 2024.3 Compiler 2024.09 Sep 10 2024
-# Start time: 13:13:31 on Mar 24,2025
+# Start time: 11:56:44 on Mar 25,2025
 # vcom -reportprogress 300 -93 -work lpm /home/muhammad-ahmed-qazi/intelFPGA_lite/24.1std/quartus/eda/sim_lib/220model.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -293,7 +293,7 @@
 # -- Compiling architecture LPM_SYN of LPM_OUTpad
 # -- Compiling entity LPM_BIpad
 # -- Compiling architecture LPM_SYN of LPM_BIpad
-# End time: 13:13:31 on Mar 24,2025, Elapsed time: 0:00:00
+# End time: 11:56:44 on Mar 25,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # 
 # vlib vhdl_libs/sgate
@@ -305,7 +305,7 @@
 # Modifying modelsim.ini
 # vcom -93 -work sgate {/home/muhammad-ahmed-qazi/intelFPGA_lite/24.1std/quartus/eda/sim_lib/sgate_pack.vhd}
 # Questa Intel Starter FPGA Edition-64 vcom 2024.3 Compiler 2024.09 Sep 10 2024
-# Start time: 13:13:31 on Mar 24,2025
+# Start time: 11:56:44 on Mar 25,2025
 # vcom -reportprogress 300 -93 -work sgate /home/muhammad-ahmed-qazi/intelFPGA_lite/24.1std/quartus/eda/sim_lib/sgate_pack.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -313,11 +313,11 @@
 # -- Compiling package sgate_pack
 # -- Compiling package body sgate_pack
 # -- Loading package sgate_pack
-# End time: 13:13:32 on Mar 24,2025, Elapsed time: 0:00:01
+# End time: 11:56:45 on Mar 25,2025, Elapsed time: 0:00:01
 # Errors: 0, Warnings: 0
 # vcom -93 -work sgate {/home/muhammad-ahmed-qazi/intelFPGA_lite/24.1std/quartus/eda/sim_lib/sgate.vhd}
 # Questa Intel Starter FPGA Edition-64 vcom 2024.3 Compiler 2024.09 Sep 10 2024
-# Start time: 13:13:32 on Mar 24,2025
+# Start time: 11:56:45 on Mar 25,2025
 # vcom -reportprogress 300 -93 -work sgate /home/muhammad-ahmed-qazi/intelFPGA_lite/24.1std/quartus/eda/sim_lib/sgate.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -367,7 +367,7 @@
 # -- Compiling architecture sim_arch of oper_bus_mux
 # -- Compiling entity oper_latch
 # -- Compiling architecture sim_arch of oper_latch
-# End time: 13:13:32 on Mar 24,2025, Elapsed time: 0:00:00
+# End time: 11:56:45 on Mar 25,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # 
 # vlib vhdl_libs/altera_mf
@@ -379,17 +379,17 @@
 # Modifying modelsim.ini
 # vcom -93 -work altera_mf {/home/muhammad-ahmed-qazi/intelFPGA_lite/24.1std/quartus/eda/sim_lib/altera_mf_components.vhd}
 # Questa Intel Starter FPGA Edition-64 vcom 2024.3 Compiler 2024.09 Sep 10 2024
-# Start time: 13:13:32 on Mar 24,2025
+# Start time: 11:56:45 on Mar 25,2025
 # vcom -reportprogress 300 -93 -work altera_mf /home/muhammad-ahmed-qazi/intelFPGA_lite/24.1std/quartus/eda/sim_lib/altera_mf_components.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
 # -- Loading package std_logic_1164
 # -- Compiling package altera_mf_components
-# End time: 13:13:32 on Mar 24,2025, Elapsed time: 0:00:00
+# End time: 11:56:45 on Mar 25,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # vcom -93 -work altera_mf {/home/muhammad-ahmed-qazi/intelFPGA_lite/24.1std/quartus/eda/sim_lib/altera_mf.vhd}
 # Questa Intel Starter FPGA Edition-64 vcom 2024.3 Compiler 2024.09 Sep 10 2024
-# Start time: 13:13:32 on Mar 24,2025
+# Start time: 11:56:45 on Mar 25,2025
 # vcom -reportprogress 300 -93 -work altera_mf /home/muhammad-ahmed-qazi/intelFPGA_lite/24.1std/quartus/eda/sim_lib/altera_mf.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -628,7 +628,7 @@
 # -- Compiling architecture sim_sld_virtual_jtag_basic of sld_virtual_jtag_basic
 # -- Compiling entity altsource_probe
 # -- Compiling architecture sim_altsource_probe of altsource_probe
-# End time: 13:13:32 on Mar 24,2025, Elapsed time: 0:00:00
+# End time: 11:56:45 on Mar 25,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # 
 # vlib vhdl_libs/altera_lnsim
@@ -640,21 +640,21 @@
 # Modifying modelsim.ini
 # vlog -sv -work altera_lnsim {/home/muhammad-ahmed-qazi/intelFPGA_lite/24.1std/quartus/eda/sim_lib/mentor/altera_lnsim_for_vhdl.sv}
 # Questa Intel Starter FPGA Edition-64 vlog 2024.3 Compiler 2024.09 Sep 10 2024
-# Start time: 13:13:32 on Mar 24,2025
+# Start time: 11:56:45 on Mar 25,2025
 # vlog -reportprogress 300 -sv -work altera_lnsim /home/muhammad-ahmed-qazi/intelFPGA_lite/24.1std/quartus/eda/sim_lib/mentor/altera_lnsim_for_vhdl.sv 
 # 
 # Top level modules:
-# End time: 13:13:33 on Mar 24,2025, Elapsed time: 0:00:01
+# End time: 11:56:46 on Mar 25,2025, Elapsed time: 0:00:01
 # Errors: 0, Warnings: 0
 # vcom -93 -work altera_lnsim {/home/muhammad-ahmed-qazi/intelFPGA_lite/24.1std/quartus/eda/sim_lib/altera_lnsim_components.vhd}
 # Questa Intel Starter FPGA Edition-64 vcom 2024.3 Compiler 2024.09 Sep 10 2024
-# Start time: 13:13:33 on Mar 24,2025
+# Start time: 11:56:46 on Mar 25,2025
 # vcom -reportprogress 300 -93 -work altera_lnsim /home/muhammad-ahmed-qazi/intelFPGA_lite/24.1std/quartus/eda/sim_lib/altera_lnsim_components.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
 # -- Loading package std_logic_1164
 # -- Compiling package altera_lnsim_components
-# End time: 13:13:33 on Mar 24,2025, Elapsed time: 0:00:00
+# End time: 11:56:46 on Mar 25,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # 
 # vlib vhdl_libs/cyclonev
@@ -666,15 +666,15 @@
 # Modifying modelsim.ini
 # vlog -vlog01compat -work cyclonev {/home/muhammad-ahmed-qazi/intelFPGA_lite/24.1std/quartus/eda/sim_lib/mentor/cyclonev_atoms_ncrypt.v}
 # Questa Intel Starter FPGA Edition-64 vlog 2024.3 Compiler 2024.09 Sep 10 2024
-# Start time: 13:13:33 on Mar 24,2025
+# Start time: 11:56:46 on Mar 25,2025
 # vlog -reportprogress 300 -vlog01compat -work cyclonev /home/muhammad-ahmed-qazi/intelFPGA_lite/24.1std/quartus/eda/sim_lib/mentor/cyclonev_atoms_ncrypt.v 
 # 
 # Top level modules:
-# End time: 13:13:34 on Mar 24,2025, Elapsed time: 0:00:01
+# End time: 11:56:46 on Mar 25,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # vcom -93 -work cyclonev {/home/muhammad-ahmed-qazi/intelFPGA_lite/24.1std/quartus/eda/sim_lib/cyclonev_atoms.vhd}
 # Questa Intel Starter FPGA Edition-64 vcom 2024.3 Compiler 2024.09 Sep 10 2024
-# Start time: 13:13:34 on Mar 24,2025
+# Start time: 11:56:46 on Mar 25,2025
 # vcom -reportprogress 300 -93 -work cyclonev /home/muhammad-ahmed-qazi/intelFPGA_lite/24.1std/quartus/eda/sim_lib/cyclonev_atoms.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -814,11 +814,11 @@
 # -- Compiling architecture behavior of cyclonev_ir_fifo_userdes
 # -- Compiling entity cyclonev_oscillator
 # -- Compiling architecture behavior of cyclonev_oscillator
-# End time: 13:13:34 on Mar 24,2025, Elapsed time: 0:00:00
+# End time: 11:56:47 on Mar 25,2025, Elapsed time: 0:00:01
 # Errors: 0, Warnings: 1
 # vcom -93 -work cyclonev {/home/muhammad-ahmed-qazi/intelFPGA_lite/24.1std/quartus/eda/sim_lib/cyclonev_components.vhd}
 # Questa Intel Starter FPGA Edition-64 vcom 2024.3 Compiler 2024.09 Sep 10 2024
-# Start time: 13:13:34 on Mar 24,2025
+# Start time: 11:56:47 on Mar 25,2025
 # vcom -reportprogress 300 -93 -work cyclonev /home/muhammad-ahmed-qazi/intelFPGA_lite/24.1std/quartus/eda/sim_lib/cyclonev_components.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -827,7 +827,7 @@
 # -- Loading package VITAL_Primitives
 # -- Loading package cyclonev_atom_pack
 # -- Compiling package cyclonev_components
-# End time: 13:13:34 on Mar 24,2025, Elapsed time: 0:00:00
+# End time: 11:56:47 on Mar 25,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # 
 # vlib vhdl_libs/cyclonev_hssi
@@ -839,7 +839,7 @@
 # Modifying modelsim.ini
 # vcom -93 -work cyclonev_hssi {/home/muhammad-ahmed-qazi/intelFPGA_lite/24.1std/quartus/eda/sim_lib/cyclonev_hssi_components.vhd}
 # Questa Intel Starter FPGA Edition-64 vcom 2024.3 Compiler 2024.09 Sep 10 2024
-# Start time: 13:13:34 on Mar 24,2025
+# Start time: 11:56:47 on Mar 25,2025
 # vcom -reportprogress 300 -93 -work cyclonev_hssi /home/muhammad-ahmed-qazi/intelFPGA_lite/24.1std/quartus/eda/sim_lib/cyclonev_hssi_components.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -847,19 +847,19 @@
 # -- Compiling package CYCLONEV_HSSI_COMPONENTS
 # -- Compiling package body CYCLONEV_HSSI_COMPONENTS
 # -- Loading package CYCLONEV_HSSI_COMPONENTS
-# End time: 13:13:34 on Mar 24,2025, Elapsed time: 0:00:00
+# End time: 11:56:47 on Mar 25,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # vlog -vlog01compat -work cyclonev_hssi {/home/muhammad-ahmed-qazi/intelFPGA_lite/24.1std/quartus/eda/sim_lib/mentor/cyclonev_hssi_atoms_ncrypt.v}
 # Questa Intel Starter FPGA Edition-64 vlog 2024.3 Compiler 2024.09 Sep 10 2024
-# Start time: 13:13:34 on Mar 24,2025
+# Start time: 11:56:47 on Mar 25,2025
 # vlog -reportprogress 300 -vlog01compat -work cyclonev_hssi /home/muhammad-ahmed-qazi/intelFPGA_lite/24.1std/quartus/eda/sim_lib/mentor/cyclonev_hssi_atoms_ncrypt.v 
 # 
 # Top level modules:
-# End time: 13:13:35 on Mar 24,2025, Elapsed time: 0:00:01
+# End time: 11:56:47 on Mar 25,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # vcom -93 -work cyclonev_hssi {/home/muhammad-ahmed-qazi/intelFPGA_lite/24.1std/quartus/eda/sim_lib/cyclonev_hssi_atoms.vhd}
 # Questa Intel Starter FPGA Edition-64 vcom 2024.3 Compiler 2024.09 Sep 10 2024
-# Start time: 13:13:35 on Mar 24,2025
+# Start time: 11:56:47 on Mar 25,2025
 # vcom -reportprogress 300 -93 -work cyclonev_hssi /home/muhammad-ahmed-qazi/intelFPGA_lite/24.1std/quartus/eda/sim_lib/cyclonev_hssi_atoms.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -913,7 +913,7 @@
 # -- Compiling architecture behavior of cyclonev_hssi_pma_hi_pmaif
 # -- Compiling entity cyclonev_hssi_pma_hi_xcvrif
 # -- Compiling architecture behavior of cyclonev_hssi_pma_hi_xcvrif
-# End time: 13:13:35 on Mar 24,2025, Elapsed time: 0:00:00
+# End time: 11:56:47 on Mar 25,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # 
 # if {[file exists rtl_work]} {
@@ -927,7 +927,7 @@
 # 
 # vcom -93 -work work {/home/muhammad-ahmed-qazi/Documents/GitHub/4-bit-VGA-Controller-on-FPGA/vga_sync.vhd}
 # Questa Intel Starter FPGA Edition-64 vcom 2024.3 Compiler 2024.09 Sep 10 2024
-# Start time: 13:13:35 on Mar 24,2025
+# Start time: 11:56:48 on Mar 25,2025
 # vcom -reportprogress 300 -93 -work work /home/muhammad-ahmed-qazi/Documents/GitHub/4-bit-VGA-Controller-on-FPGA/vga_sync.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -935,12 +935,12 @@
 # -- Loading package NUMERIC_STD
 # -- Compiling entity vga_sync
 # -- Compiling architecture arch of vga_sync
-# End time: 13:13:35 on Mar 24,2025, Elapsed time: 0:00:00
+# End time: 11:56:48 on Mar 25,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # 
 # vcom -93 -work work {/home/muhammad-ahmed-qazi/Documents/GitHub/4-bit-VGA-Controller-on-FPGA/vga_sync_tb.vhd}
 # Questa Intel Starter FPGA Edition-64 vcom 2024.3 Compiler 2024.09 Sep 10 2024
-# Start time: 13:13:35 on Mar 24,2025
+# Start time: 11:56:48 on Mar 25,2025
 # vcom -reportprogress 300 -93 -work work /home/muhammad-ahmed-qazi/Documents/GitHub/4-bit-VGA-Controller-on-FPGA/vga_sync_tb.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -949,12 +949,12 @@
 # -- Compiling entity vga_sync_tb
 # -- Compiling architecture testbench of vga_sync_tb
 # -- Loading entity vga_sync
-# End time: 13:13:35 on Mar 24,2025, Elapsed time: 0:00:00
+# End time: 11:56:48 on Mar 25,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # 
 # vsim -t 1ps -L altera -L lpm -L sgate -L altera_mf -L altera_lnsim -L cyclonev -L cyclonev_hssi -L rtl_work -L work -voptargs="+acc"  vga_sync_tb
 # vsim -t 1ps -L altera -L lpm -L sgate -L altera_mf -L altera_lnsim -L cyclonev -L cyclonev_hssi -L rtl_work -L work -voptargs=""+acc"" vga_sync_tb 
-# Start time: 13:13:35 on Mar 24,2025
+# Start time: 11:56:48 on Mar 25,2025
 # ** Note: (vsim-3812) Design is being optimized...
 # ** Warning: (vopt-10908) Some optimizations are turned off because the +acc switch is in effect.
 # ** Note: (vsim-12126) Error and warning message counts have been restored: Errors=0, Warnings=1.
@@ -975,6 +975,5 @@
 #    Time: 0 ps  Iteration: 0  Instance: /vga_sync_tb/UUT
 # ** Warning: NUMERIC_STD.">=": metavalue detected, returning FALSE
 #    Time: 0 ps  Iteration: 0  Instance: /vga_sync_tb/UUT
-# Break key hit
-# End time: 13:28:11 on Mar 24,2025, Elapsed time: 0:14:36
-# Errors: 0, Warnings: 3
+# ** Warning: NUMERIC_STD.">=": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 0  Instance: /vga_sync_tb/UUT

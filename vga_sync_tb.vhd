@@ -8,8 +8,9 @@ END vga_sync_tb;
 ARCHITECTURE testbench OF vga_sync_tb IS
     -- Declare signals to connect to the UUT
     SIGNAL clk, reset: STD_LOGIC := '0';
-    SIGNAL hsync, video_on: STD_LOGIC;
-    SIGNAL pixel_x: STD_LOGIC_VECTOR(9 DOWNTO 0);
+    SIGNAL hsync, vsync, video_on: STD_LOGIC;
+    SIGNAL p_tick: STD_LOGIC;
+    SIGNAL pixel_x, pixel_y: STD_LOGIC_VECTOR(9 DOWNTO 0);
     
     -- Clock period
     CONSTANT clk_period : TIME := 40 ns;  -- 25 MHz clock
@@ -21,18 +22,21 @@ BEGIN
         clk => clk,
         reset => reset,
         hsync => hsync,
+        vsync => vsync,
         video_on => video_on,
-        pixel_x => pixel_x
+        p_tick => p_tick,
+        pixel_x => pixel_x,
+        pixel_y => pixel_y
     );
 
     -- Clock process
     clk_process : PROCESS
     BEGIN
-        WHILE NOW < 10 ms LOOP  -- Run simulation for 10 ms
+        WHILE NOW < 20 ms LOOP  -- Run simulation for 20 ms
             clk <= '0';
-            WAIT FOR clk_period / 2;
+            WAIT FOR clk_period / 4;
             clk <= '1';
-            WAIT FOR clk_period / 2;
+            WAIT FOR clk_period / 4;
         END LOOP;
         WAIT;
     END PROCESS;
@@ -46,7 +50,7 @@ BEGIN
         reset <= '0';
         
         -- Run for some time to observe the sync signals
-        WAIT FOR 10 ms;
+        WAIT FOR 20 ms;
         
         -- Stop the simulation
         WAIT;

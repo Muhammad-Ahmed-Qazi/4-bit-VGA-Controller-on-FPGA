@@ -1,5 +1,5 @@
 Analysis & Synthesis report for VGA-Controller
-Mon Mar 24 13:05:02 2025
+Tue Mar 25 11:44:46 2025
 Quartus Prime Version 24.1std.0 Build 1077 03/04/2025 SC Lite Edition
 
 
@@ -43,14 +43,14 @@ on the Quartus Prime software download page.
 +-----------------------------------------------------------------------------------+
 ; Analysis & Synthesis Summary                                                      ;
 +---------------------------------+-------------------------------------------------+
-; Analysis & Synthesis Status     ; Successful - Mon Mar 24 13:05:02 2025           ;
+; Analysis & Synthesis Status     ; Successful - Tue Mar 25 11:44:46 2025           ;
 ; Quartus Prime Version           ; 24.1std.0 Build 1077 03/04/2025 SC Lite Edition ;
 ; Revision Name                   ; VGA-Controller                                  ;
 ; Top-level Entity Name           ; vga_sync                                        ;
 ; Family                          ; Cyclone V                                       ;
 ; Logic utilization (in ALMs)     ; N/A                                             ;
-; Total registers                 ; 12                                              ;
-; Total pins                      ; 15                                              ;
+; Total registers                 ; 23                                              ;
+; Total pins                      ; 26                                              ;
 ; Total virtual pins              ; 0                                               ;
 ; Total block memory bits         ; 0                                               ;
 ; Total DSP Blocks                ; 0                                               ;
@@ -163,7 +163,8 @@ on the Quartus Prime software download page.
 ;                            ;             ;
 ; Usage by Processor         ; % Time Used ;
 ;     Processor 1            ; 100.0%      ;
-;     Processors 2-4         ;   0.0%      ;
+;     Processor 2            ;   0.0%      ;
+;     Processors 3-4         ;   0.0%      ;
 +----------------------------+-------------+
 
 
@@ -176,31 +177,31 @@ on the Quartus Prime software download page.
 +----------------------------------+-----------------+-----------------+--------------------------------------------------------------------------------------+---------+
 
 
-+--------------------------------------------------------+
-; Analysis & Synthesis Resource Usage Summary            ;
-+---------------------------------------------+----------+
-; Resource                                    ; Usage    ;
-+---------------------------------------------+----------+
-; Estimate of Logic utilization (ALMs needed) ; 9        ;
-;                                             ;          ;
-; Combinational ALUT usage for logic          ; 16       ;
-;     -- 7 input functions                    ; 0        ;
-;     -- 6 input functions                    ; 1        ;
-;     -- 5 input functions                    ; 0        ;
-;     -- 4 input functions                    ; 3        ;
-;     -- <=3 input functions                  ; 12       ;
-;                                             ;          ;
-; Dedicated logic registers                   ; 12       ;
-;                                             ;          ;
-; I/O pins                                    ; 15       ;
-;                                             ;          ;
-; Total DSP Blocks                            ; 0        ;
-;                                             ;          ;
-; Maximum fan-out node                        ; mod2_reg ;
-; Maximum fan-out                             ; 12       ;
-; Total fan-out                               ; 125      ;
-; Average fan-out                             ; 2.16     ;
-+---------------------------------------------+----------+
++---------------------------------------------------------+
+; Analysis & Synthesis Resource Usage Summary             ;
++---------------------------------------------+-----------+
+; Resource                                    ; Usage     ;
++---------------------------------------------+-----------+
+; Estimate of Logic utilization (ALMs needed) ; 17        ;
+;                                             ;           ;
+; Combinational ALUT usage for logic          ; 31        ;
+;     -- 7 input functions                    ; 0         ;
+;     -- 6 input functions                    ; 3         ;
+;     -- 5 input functions                    ; 3         ;
+;     -- 4 input functions                    ; 4         ;
+;     -- <=3 input functions                  ; 21        ;
+;                                             ;           ;
+; Dedicated logic registers                   ; 23        ;
+;                                             ;           ;
+; I/O pins                                    ; 26        ;
+;                                             ;           ;
+; Total DSP Blocks                            ; 0         ;
+;                                             ;           ;
+; Maximum fan-out node                        ; clk~input ;
+; Maximum fan-out                             ; 23        ;
+; Total fan-out                               ; 247       ;
+; Average fan-out                             ; 2.33      ;
++---------------------------------------------+-----------+
 
 
 +----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
@@ -208,7 +209,7 @@ on the Quartus Prime software download page.
 +----------------------------+---------------------+---------------------------+-------------------+------------+------+--------------+---------------------+-------------+--------------+
 ; Compilation Hierarchy Node ; Combinational ALUTs ; Dedicated Logic Registers ; Block Memory Bits ; DSP Blocks ; Pins ; Virtual Pins ; Full Hierarchy Name ; Entity Name ; Library Name ;
 +----------------------------+---------------------+---------------------------+-------------------+------------+------+--------------+---------------------+-------------+--------------+
-; |vga_sync                  ; 16 (16)             ; 12 (12)                   ; 0                 ; 0          ; 15   ; 0            ; |vga_sync           ; vga_sync    ; work         ;
+; |vga_sync                  ; 31 (31)             ; 23 (23)                   ; 0                 ; 0          ; 26   ; 0            ; |vga_sync           ; vga_sync    ; work         ;
 +----------------------------+---------------------+---------------------------+-------------------+------------+------+--------------+---------------------+-------------+--------------+
 Note: For table entries with two numbers listed, the numbers in parentheses indicate the number of resources of the given type used by the specific entity alone. The numbers listed outside of parentheses indicate the total resources of the given type used by the specific entity and all of its sub-entities in the hierarchy.
 
@@ -218,12 +219,12 @@ Note: For table entries with two numbers listed, the numbers in parentheses indi
 +----------------------------------------------+-------+
 ; Statistic                                    ; Value ;
 +----------------------------------------------+-------+
-; Total registers                              ; 12    ;
-; Number of registers using Synchronous Clear  ; 10    ;
+; Total registers                              ; 23    ;
+; Number of registers using Synchronous Clear  ; 20    ;
 ; Number of registers using Synchronous Load   ; 0     ;
-; Number of registers using Asynchronous Clear ; 12    ;
+; Number of registers using Asynchronous Clear ; 23    ;
 ; Number of registers using Asynchronous Load  ; 0     ;
-; Number of registers using Clock Enable       ; 10    ;
+; Number of registers using Clock Enable       ; 20    ;
 ; Number of registers using Preset             ; 0     ;
 +----------------------------------------------+-------+
 
@@ -233,21 +234,21 @@ Note: For table entries with two numbers listed, the numbers in parentheses indi
 +-----------------------+-----------------------------+
 ; Type                  ; Count                       ;
 +-----------------------+-----------------------------+
-; arriav_ff             ; 12                          ;
-;     CLR               ; 2                           ;
-;     ENA CLR SCLR      ; 10                          ;
-; arriav_lcell_comb     ; 16                          ;
-;     arith             ; 10                          ;
-;         1 data inputs ; 10                          ;
-;     normal            ; 6                           ;
+; arriav_ff             ; 23                          ;
+;     CLR               ; 3                           ;
+;     ENA CLR SCLR      ; 20                          ;
+; arriav_lcell_comb     ; 31                          ;
+;     arith             ; 20                          ;
+;         1 data inputs ; 20                          ;
+;     normal            ; 11                          ;
 ;         1 data inputs ; 1                           ;
-;         3 data inputs ; 1                           ;
-;         4 data inputs ; 3                           ;
-;         6 data inputs ; 1                           ;
-; boundary_port         ; 15                          ;
+;         4 data inputs ; 4                           ;
+;         5 data inputs ; 3                           ;
+;         6 data inputs ; 3                           ;
+; boundary_port         ; 26                          ;
 ;                       ;                             ;
 ; Max LUT depth         ; 2.00                        ;
-; Average LUT depth     ; 1.57                        ;
+; Average LUT depth     ; 1.65                        ;
 +-----------------------+-----------------------------+
 
 
@@ -266,12 +267,13 @@ Note: For table entries with two numbers listed, the numbers in parentheses indi
 Info: *******************************************************************
 Info: Running Quartus Prime Analysis & Synthesis
     Info: Version 24.1std.0 Build 1077 03/04/2025 SC Lite Edition
-    Info: Processing started: Mon Mar 24 13:04:55 2025
+    Info: Processing started: Tue Mar 25 11:44:40 2025
 Info: Command: quartus_map --read_settings_files=on --write_settings_files=off VGA-Controller -c VGA-Controller
 Warning (18236): Number of processors has not been specified which may cause overloading on shared machines.  Set the global assignment NUM_PARALLEL_PROCESSORS in your QSF to an appropriate value for best performance.
 Info (20030): Parallel compilation is enabled and will use 4 of the 4 processors detected
-Info (12021): Found 1 design units, including 1 entities, in source file vga_sync_tb.vhd
-    Info (12023): Found entity 1: vga_sync_tb File: /home/muhammad-ahmed-qazi/Documents/GitHub/4-bit-VGA-Controller-on-FPGA/vga_sync_tb.vhd Line: 4
+Info (12021): Found 2 design units, including 1 entities, in source file vga_sync_tb.vhd
+    Info (12022): Found design unit 1: vga_sync_tb-testbench File: /home/muhammad-ahmed-qazi/Documents/GitHub/4-bit-VGA-Controller-on-FPGA/vga_sync_tb.vhd Line: 8
+    Info (12023): Found entity 1: vga_sync_tb File: /home/muhammad-ahmed-qazi/Documents/GitHub/4-bit-VGA-Controller-on-FPGA/vga_sync_tb.vhd Line: 5
 Info (12021): Found 2 design units, including 1 entities, in source file vga_sync.vhd
     Info (12022): Found design unit 1: vga_sync-arch File: /home/muhammad-ahmed-qazi/Documents/GitHub/4-bit-VGA-Controller-on-FPGA/vga_sync.vhd Line: 15
     Info (12023): Found entity 1: vga_sync File: /home/muhammad-ahmed-qazi/Documents/GitHub/4-bit-VGA-Controller-on-FPGA/vga_sync.vhd Line: 7
@@ -279,14 +281,14 @@ Info (12127): Elaborating entity "vga_sync" for the top level hierarchy
 Info (286030): Timing-Driven Synthesis is running
 Info (16010): Generating hard_block partition "hard_block:auto_generated_inst"
     Info (16011): Adding 0 node(s), including 0 DDIO, 0 PLL, 0 transceiver and 0 LCELL
-Info (21057): Implemented 31 device resources after synthesis - the final resource count might be different
+Info (21057): Implemented 57 device resources after synthesis - the final resource count might be different
     Info (21058): Implemented 2 input pins
-    Info (21059): Implemented 13 output pins
-    Info (21061): Implemented 16 logic cells
+    Info (21059): Implemented 24 output pins
+    Info (21061): Implemented 31 logic cells
 Info: Quartus Prime Analysis & Synthesis was successful. 0 errors, 1 warning
-    Info: Peak virtual memory: 493 megabytes
-    Info: Processing ended: Mon Mar 24 13:05:02 2025
-    Info: Elapsed time: 00:00:07
-    Info: Total CPU time (on all processors): 00:00:17
+    Info: Peak virtual memory: 512 megabytes
+    Info: Processing ended: Tue Mar 25 11:44:46 2025
+    Info: Elapsed time: 00:00:06
+    Info: Total CPU time (on all processors): 00:00:15
 
 

@@ -12,10 +12,10 @@ Z0 !s99 nomlopt
 cModel Technology
 Z1 d/home/muhammad-ahmed-qazi/Documents/GitHub/4-bit-VGA-Controller-on-FPGA/simulation/questa
 T_opt
-Z2 !s110 1742804015
-VS@Nm;^F@EzmR[VR[2:Uf=3
+Z2 !s110 1742885808
+V7H=^5QTOFE]QUHScH4FoV1
 04 11 9 work vga_sync_tb testbench 1
-=1-000ae431a4f1-67e1142f-7ad71-5b9d
+=1-000ae431a4f1-67e253b0-3b556-53d6
 R0
 !s12f OEM100
 !s12b OEM100
@@ -26,7 +26,7 @@ tCvgOpt 0
 n@_opt
 OL;O;2024.3;79
 Evga_sync
-Z3 w1742803493
+Z3 w1742885067
 Z4 DPx4 ieee 11 numeric_std 0 22 aU^R8eGcicLcUFIaBQSL>3
 Z5 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
 Z6 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
@@ -36,13 +36,13 @@ Z7 8/home/muhammad-ahmed-qazi/Documents/GitHub/4-bit-VGA-Controller-on-FPGA/vga_
 Z8 F/home/muhammad-ahmed-qazi/Documents/GitHub/4-bit-VGA-Controller-on-FPGA/vga_sync.vhd
 l0
 L7 1
-ViSeIm5iSLG7:G01ABLW=e0
-!s100 J<HmRSE<G>Ia=32`]Ni;^3
+VanL:WJH[>R:iS]8YSf?aG1
+!s100 BK7LGG=YekCP>mSBh[@WP1
 Z9 OL;C;2024.3;79
 31
 R2
 !i10b 1
-Z10 !s108 1742804015.000000
+Z10 !s108 1742885808.000000
 Z11 !s90 -reportprogress|300|-93|-work|work|/home/muhammad-ahmed-qazi/Documents/GitHub/4-bit-VGA-Controller-on-FPGA/vga_sync.vhd|
 Z12 !s107 /home/muhammad-ahmed-qazi/Documents/GitHub/4-bit-VGA-Controller-on-FPGA/vga_sync.vhd|
 !i113 0
@@ -52,12 +52,12 @@ Aarch
 R4
 R5
 R6
-Z15 DEx4 work 8 vga_sync 0 22 iSeIm5iSLG7:G01ABLW=e0
+Z15 DEx4 work 8 vga_sync 0 22 anL:WJH[>R:iS]8YSf?aG1
 !i122 0
-l34
-L15 71
-VPc2JEGXhGmSY8if18h1>k0
-!s100 Am02TcoTRaD4PlZK0^HO62
+l40
+L15 99
+V7MzM1f?d4X`f?EmNn2bf70
+!s100 N8UmN5nO[AQEXm;0oQ]1@3
 R9
 31
 R2
@@ -69,7 +69,7 @@ R12
 R13
 R14
 Evga_sync_tb
-Z16 w1742803938
+Z16 w1742884272
 R4
 R5
 R6
@@ -98,10 +98,10 @@ R5
 R6
 DEx4 work 11 vga_sync_tb 0 22 Vm^4MQAnzc42;DzbLzTgm0
 !i122 1
-l17
-L8 48
-Vl[B=_lQDSG>gKk[fWI>`o1
-!s100 k0gBL243d81e5P@DdME]m3
+l18
+L8 52
+Vk><=1OJnbAi<9HMWodgjl1
+!s100 W:Q5k[cjOhz9Y7@;h0NzF1
 R9
 31
 R2

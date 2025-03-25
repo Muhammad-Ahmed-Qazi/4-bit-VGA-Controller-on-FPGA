@@ -1,11 +1,11 @@
-Analysis & Synthesis Status : Successful - Mon Mar 24 13:05:02 2025
+Analysis & Synthesis Status : Successful - Tue Mar 25 11:44:46 2025
 Quartus Prime Version : 24.1std.0 Build 1077 03/04/2025 SC Lite Edition
 Revision Name : VGA-Controller
 Top-level Entity Name : vga_sync
 Family : Cyclone V
 Logic utilization (in ALMs) : N/A
-Total registers : 12
-Total pins : 15
+Total registers : 23
+Total pins : 26
 Total virtual pins : 0
 Total block memory bits : 0
 Total DSP Blocks : 0
