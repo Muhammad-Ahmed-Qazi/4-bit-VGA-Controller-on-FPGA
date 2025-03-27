@@ -27,25 +27,25 @@
 # Modifying modelsim.ini
 # vcom -93 -work altera {/home/muhammad-ahmed-qazi/intelFPGA_lite/24.1std/quartus/eda/sim_lib/altera_syn_attributes.vhd}
 # Questa Intel Starter FPGA Edition-64 vcom 2024.3 Compiler 2024.09 Sep 10 2024
-# Start time: 11:56:44 on Mar 25,2025
+# Start time: 11:28:21 on Mar 26,2025
 # vcom -reportprogress 300 -93 -work altera /home/muhammad-ahmed-qazi/intelFPGA_lite/24.1std/quartus/eda/sim_lib/altera_syn_attributes.vhd 
 # -- Loading package STANDARD
 # -- Compiling package altera_syn_attributes
-# End time: 11:56:44 on Mar 25,2025, Elapsed time: 0:00:00
+# End time: 11:28:21 on Mar 26,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # vcom -93 -work altera {/home/muhammad-ahmed-qazi/intelFPGA_lite/24.1std/quartus/eda/sim_lib/altera_standard_functions.vhd}
 # Questa Intel Starter FPGA Edition-64 vcom 2024.3 Compiler 2024.09 Sep 10 2024
-# Start time: 11:56:44 on Mar 25,2025
+# Start time: 11:28:21 on Mar 26,2025
 # vcom -reportprogress 300 -93 -work altera /home/muhammad-ahmed-qazi/intelFPGA_lite/24.1std/quartus/eda/sim_lib/altera_standard_functions.vhd 
 # -- Loading package STANDARD
 # -- Compiling package altera_standard_functions
 # -- Compiling package body altera_standard_functions
 # -- Loading package altera_standard_functions
-# End time: 11:56:44 on Mar 25,2025, Elapsed time: 0:00:00
+# End time: 11:28:21 on Mar 26,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # vcom -93 -work altera {/home/muhammad-ahmed-qazi/intelFPGA_lite/24.1std/quartus/eda/sim_lib/alt_dspbuilder_package.vhd}
 # Questa Intel Starter FPGA Edition-64 vcom 2024.3 Compiler 2024.09 Sep 10 2024
-# Start time: 11:56:44 on Mar 25,2025
+# Start time: 11:28:21 on Mar 26,2025
 # vcom -reportprogress 300 -93 -work altera /home/muhammad-ahmed-qazi/intelFPGA_lite/24.1std/quartus/eda/sim_lib/alt_dspbuilder_package.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -54,11 +54,11 @@
 # -- Compiling package alt_dspbuilder_package
 # -- Compiling package body alt_dspbuilder_package
 # -- Loading package alt_dspbuilder_package
-# End time: 11:56:44 on Mar 25,2025, Elapsed time: 0:00:00
+# End time: 11:28:21 on Mar 26,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # vcom -93 -work altera {/home/muhammad-ahmed-qazi/intelFPGA_lite/24.1std/quartus/eda/sim_lib/altera_europa_support_lib.vhd}
 # Questa Intel Starter FPGA Edition-64 vcom 2024.3 Compiler 2024.09 Sep 10 2024
-# Start time: 11:56:44 on Mar 25,2025
+# Start time: 11:28:21 on Mar 26,2025
 # vcom -reportprogress 300 -93 -work altera /home/muhammad-ahmed-qazi/intelFPGA_lite/24.1std/quartus/eda/sim_lib/altera_europa_support_lib.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -69,11 +69,11 @@
 # -- Compiling package altera_europa_support_lib
 # -- Compiling package body altera_europa_support_lib
 # -- Loading package altera_europa_support_lib
-# End time: 11:56:44 on Mar 25,2025, Elapsed time: 0:00:00
+# End time: 11:28:21 on Mar 26,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # vcom -93 -work altera {/home/muhammad-ahmed-qazi/intelFPGA_lite/24.1std/quartus/eda/sim_lib/altera_primitives_components.vhd}
 # Questa Intel Starter FPGA Edition-64 vcom 2024.3 Compiler 2024.09 Sep 10 2024
-# Start time: 11:56:44 on Mar 25,2025
+# Start time: 11:28:21 on Mar 26,2025
 # vcom -reportprogress 300 -93 -work altera /home/muhammad-ahmed-qazi/intelFPGA_lite/24.1std/quartus/eda/sim_lib/altera_primitives_components.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -83,11 +83,11 @@
 # -- Compiling package dffeas_pack
 # -- Loading package dffeas_pack
 # -- Compiling package altera_primitives_components
-# End time: 11:56:44 on Mar 25,2025, Elapsed time: 0:00:00
+# End time: 11:28:21 on Mar 26,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # vcom -93 -work altera {/home/muhammad-ahmed-qazi/intelFPGA_lite/24.1std/quartus/eda/sim_lib/altera_primitives.vhd}
 # Questa Intel Starter FPGA Edition-64 vcom 2024.3 Compiler 2024.09 Sep 10 2024
-# Start time: 11:56:44 on Mar 25,2025
+# Start time: 11:28:21 on Mar 26,2025
 # vcom -reportprogress 300 -93 -work altera /home/muhammad-ahmed-qazi/intelFPGA_lite/24.1std/quartus/eda/sim_lib/altera_primitives.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -175,7 +175,7 @@
 # -- Compiling architecture BEHAVIOR of alt_bidir_diff
 # -- Compiling entity alt_bidir_buf
 # -- Compiling architecture BEHAVIOR of alt_bidir_buf
-# End time: 11:56:44 on Mar 25,2025, Elapsed time: 0:00:00
+# End time: 11:28:21 on Mar 26,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # 
 # vlib vhdl_libs/lpm
@@ -187,17 +187,17 @@
 # Modifying modelsim.ini
 # vcom -93 -work lpm {/home/muhammad-ahmed-qazi/intelFPGA_lite/24.1std/quartus/eda/sim_lib/220pack.vhd}
 # Questa Intel Starter FPGA Edition-64 vcom 2024.3 Compiler 2024.09 Sep 10 2024
-# Start time: 11:56:44 on Mar 25,2025
+# Start time: 11:28:21 on Mar 26,2025
 # vcom -reportprogress 300 -93 -work lpm /home/muhammad-ahmed-qazi/intelFPGA_lite/24.1std/quartus/eda/sim_lib/220pack.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
 # -- Loading package std_logic_1164
 # -- Compiling package LPM_COMPONENTS
-# End time: 11:56:44 on Mar 25,2025, Elapsed time: 0:00:00
+# End time: 11:28:21 on Mar 26,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # vcom -93 -work lpm {/home/muhammad-ahmed-qazi/intelFPGA_lite/24.1std/quartus/eda/sim_lib/220model.vhd}
 # Questa Intel Starter FPGA Edition-64 vcom 2024.3 Compiler 2024.09 Sep 10 2024
-# Start time: 11:56:44 on Mar 25,2025
+# Start time: 11:28:21 on Mar 26,2025
 # vcom -reportprogress 300 -93 -work lpm /home/muhammad-ahmed-qazi/intelFPGA_lite/24.1std/quartus/eda/sim_lib/220model.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -293,7 +293,7 @@
 # -- Compiling architecture LPM_SYN of LPM_OUTpad
 # -- Compiling entity LPM_BIpad
 # -- Compiling architecture LPM_SYN of LPM_BIpad
-# End time: 11:56:44 on Mar 25,2025, Elapsed time: 0:00:00
+# End time: 11:28:22 on Mar 26,2025, Elapsed time: 0:00:01
 # Errors: 0, Warnings: 0
 # 
 # vlib vhdl_libs/sgate
@@ -305,7 +305,7 @@
 # Modifying modelsim.ini
 # vcom -93 -work sgate {/home/muhammad-ahmed-qazi/intelFPGA_lite/24.1std/quartus/eda/sim_lib/sgate_pack.vhd}
 # Questa Intel Starter FPGA Edition-64 vcom 2024.3 Compiler 2024.09 Sep 10 2024
-# Start time: 11:56:44 on Mar 25,2025
+# Start time: 11:28:22 on Mar 26,2025
 # vcom -reportprogress 300 -93 -work sgate /home/muhammad-ahmed-qazi/intelFPGA_lite/24.1std/quartus/eda/sim_lib/sgate_pack.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -313,11 +313,11 @@
 # -- Compiling package sgate_pack
 # -- Compiling package body sgate_pack
 # -- Loading package sgate_pack
-# End time: 11:56:45 on Mar 25,2025, Elapsed time: 0:00:01
+# End time: 11:28:22 on Mar 26,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # vcom -93 -work sgate {/home/muhammad-ahmed-qazi/intelFPGA_lite/24.1std/quartus/eda/sim_lib/sgate.vhd}
 # Questa Intel Starter FPGA Edition-64 vcom 2024.3 Compiler 2024.09 Sep 10 2024
-# Start time: 11:56:45 on Mar 25,2025
+# Start time: 11:28:22 on Mar 26,2025
 # vcom -reportprogress 300 -93 -work sgate /home/muhammad-ahmed-qazi/intelFPGA_lite/24.1std/quartus/eda/sim_lib/sgate.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -367,7 +367,7 @@
 # -- Compiling architecture sim_arch of oper_bus_mux
 # -- Compiling entity oper_latch
 # -- Compiling architecture sim_arch of oper_latch
-# End time: 11:56:45 on Mar 25,2025, Elapsed time: 0:00:00
+# End time: 11:28:22 on Mar 26,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # 
 # vlib vhdl_libs/altera_mf
@@ -379,17 +379,17 @@
 # Modifying modelsim.ini
 # vcom -93 -work altera_mf {/home/muhammad-ahmed-qazi/intelFPGA_lite/24.1std/quartus/eda/sim_lib/altera_mf_components.vhd}
 # Questa Intel Starter FPGA Edition-64 vcom 2024.3 Compiler 2024.09 Sep 10 2024
-# Start time: 11:56:45 on Mar 25,2025
+# Start time: 11:28:22 on Mar 26,2025
 # vcom -reportprogress 300 -93 -work altera_mf /home/muhammad-ahmed-qazi/intelFPGA_lite/24.1std/quartus/eda/sim_lib/altera_mf_components.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
 # -- Loading package std_logic_1164
 # -- Compiling package altera_mf_components
-# End time: 11:56:45 on Mar 25,2025, Elapsed time: 0:00:00
+# End time: 11:28:22 on Mar 26,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # vcom -93 -work altera_mf {/home/muhammad-ahmed-qazi/intelFPGA_lite/24.1std/quartus/eda/sim_lib/altera_mf.vhd}
 # Questa Intel Starter FPGA Edition-64 vcom 2024.3 Compiler 2024.09 Sep 10 2024
-# Start time: 11:56:45 on Mar 25,2025
+# Start time: 11:28:22 on Mar 26,2025
 # vcom -reportprogress 300 -93 -work altera_mf /home/muhammad-ahmed-qazi/intelFPGA_lite/24.1std/quartus/eda/sim_lib/altera_mf.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -628,7 +628,7 @@
 # -- Compiling architecture sim_sld_virtual_jtag_basic of sld_virtual_jtag_basic
 # -- Compiling entity altsource_probe
 # -- Compiling architecture sim_altsource_probe of altsource_probe
-# End time: 11:56:45 on Mar 25,2025, Elapsed time: 0:00:00
+# End time: 11:28:22 on Mar 26,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # 
 # vlib vhdl_libs/altera_lnsim
@@ -640,21 +640,21 @@
 # Modifying modelsim.ini
 # vlog -sv -work altera_lnsim {/home/muhammad-ahmed-qazi/intelFPGA_lite/24.1std/quartus/eda/sim_lib/mentor/altera_lnsim_for_vhdl.sv}
 # Questa Intel Starter FPGA Edition-64 vlog 2024.3 Compiler 2024.09 Sep 10 2024
-# Start time: 11:56:45 on Mar 25,2025
+# Start time: 11:28:22 on Mar 26,2025
 # vlog -reportprogress 300 -sv -work altera_lnsim /home/muhammad-ahmed-qazi/intelFPGA_lite/24.1std/quartus/eda/sim_lib/mentor/altera_lnsim_for_vhdl.sv 
 # 
 # Top level modules:
-# End time: 11:56:46 on Mar 25,2025, Elapsed time: 0:00:01
+# End time: 11:28:23 on Mar 26,2025, Elapsed time: 0:00:01
 # Errors: 0, Warnings: 0
 # vcom -93 -work altera_lnsim {/home/muhammad-ahmed-qazi/intelFPGA_lite/24.1std/quartus/eda/sim_lib/altera_lnsim_components.vhd}
 # Questa Intel Starter FPGA Edition-64 vcom 2024.3 Compiler 2024.09 Sep 10 2024
-# Start time: 11:56:46 on Mar 25,2025
+# Start time: 11:28:23 on Mar 26,2025
 # vcom -reportprogress 300 -93 -work altera_lnsim /home/muhammad-ahmed-qazi/intelFPGA_lite/24.1std/quartus/eda/sim_lib/altera_lnsim_components.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
 # -- Loading package std_logic_1164
 # -- Compiling package altera_lnsim_components
-# End time: 11:56:46 on Mar 25,2025, Elapsed time: 0:00:00
+# End time: 11:28:23 on Mar 26,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # 
 # vlib vhdl_libs/cyclonev
@@ -666,15 +666,15 @@
 # Modifying modelsim.ini
 # vlog -vlog01compat -work cyclonev {/home/muhammad-ahmed-qazi/intelFPGA_lite/24.1std/quartus/eda/sim_lib/mentor/cyclonev_atoms_ncrypt.v}
 # Questa Intel Starter FPGA Edition-64 vlog 2024.3 Compiler 2024.09 Sep 10 2024
-# Start time: 11:56:46 on Mar 25,2025
+# Start time: 11:28:23 on Mar 26,2025
 # vlog -reportprogress 300 -vlog01compat -work cyclonev /home/muhammad-ahmed-qazi/intelFPGA_lite/24.1std/quartus/eda/sim_lib/mentor/cyclonev_atoms_ncrypt.v 
 # 
 # Top level modules:
-# End time: 11:56:46 on Mar 25,2025, Elapsed time: 0:00:00
+# End time: 11:28:24 on Mar 26,2025, Elapsed time: 0:00:01
 # Errors: 0, Warnings: 0
 # vcom -93 -work cyclonev {/home/muhammad-ahmed-qazi/intelFPGA_lite/24.1std/quartus/eda/sim_lib/cyclonev_atoms.vhd}
 # Questa Intel Starter FPGA Edition-64 vcom 2024.3 Compiler 2024.09 Sep 10 2024
-# Start time: 11:56:46 on Mar 25,2025
+# Start time: 11:28:24 on Mar 26,2025
 # vcom -reportprogress 300 -93 -work cyclonev /home/muhammad-ahmed-qazi/intelFPGA_lite/24.1std/quartus/eda/sim_lib/cyclonev_atoms.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -814,11 +814,11 @@
 # -- Compiling architecture behavior of cyclonev_ir_fifo_userdes
 # -- Compiling entity cyclonev_oscillator
 # -- Compiling architecture behavior of cyclonev_oscillator
-# End time: 11:56:47 on Mar 25,2025, Elapsed time: 0:00:01
+# End time: 11:28:24 on Mar 26,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 1
 # vcom -93 -work cyclonev {/home/muhammad-ahmed-qazi/intelFPGA_lite/24.1std/quartus/eda/sim_lib/cyclonev_components.vhd}
 # Questa Intel Starter FPGA Edition-64 vcom 2024.3 Compiler 2024.09 Sep 10 2024
-# Start time: 11:56:47 on Mar 25,2025
+# Start time: 11:28:24 on Mar 26,2025
 # vcom -reportprogress 300 -93 -work cyclonev /home/muhammad-ahmed-qazi/intelFPGA_lite/24.1std/quartus/eda/sim_lib/cyclonev_components.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -827,7 +827,7 @@
 # -- Loading package VITAL_Primitives
 # -- Loading package cyclonev_atom_pack
 # -- Compiling package cyclonev_components
-# End time: 11:56:47 on Mar 25,2025, Elapsed time: 0:00:00
+# End time: 11:28:24 on Mar 26,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # 
 # vlib vhdl_libs/cyclonev_hssi
@@ -839,7 +839,7 @@
 # Modifying modelsim.ini
 # vcom -93 -work cyclonev_hssi {/home/muhammad-ahmed-qazi/intelFPGA_lite/24.1std/quartus/eda/sim_lib/cyclonev_hssi_components.vhd}
 # Questa Intel Starter FPGA Edition-64 vcom 2024.3 Compiler 2024.09 Sep 10 2024
-# Start time: 11:56:47 on Mar 25,2025
+# Start time: 11:28:24 on Mar 26,2025
 # vcom -reportprogress 300 -93 -work cyclonev_hssi /home/muhammad-ahmed-qazi/intelFPGA_lite/24.1std/quartus/eda/sim_lib/cyclonev_hssi_components.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -847,19 +847,19 @@
 # -- Compiling package CYCLONEV_HSSI_COMPONENTS
 # -- Compiling package body CYCLONEV_HSSI_COMPONENTS
 # -- Loading package CYCLONEV_HSSI_COMPONENTS
-# End time: 11:56:47 on Mar 25,2025, Elapsed time: 0:00:00
+# End time: 11:28:24 on Mar 26,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # vlog -vlog01compat -work cyclonev_hssi {/home/muhammad-ahmed-qazi/intelFPGA_lite/24.1std/quartus/eda/sim_lib/mentor/cyclonev_hssi_atoms_ncrypt.v}
 # Questa Intel Starter FPGA Edition-64 vlog 2024.3 Compiler 2024.09 Sep 10 2024
-# Start time: 11:56:47 on Mar 25,2025
+# Start time: 11:28:24 on Mar 26,2025
 # vlog -reportprogress 300 -vlog01compat -work cyclonev_hssi /home/muhammad-ahmed-qazi/intelFPGA_lite/24.1std/quartus/eda/sim_lib/mentor/cyclonev_hssi_atoms_ncrypt.v 
 # 
 # Top level modules:
-# End time: 11:56:47 on Mar 25,2025, Elapsed time: 0:00:00
+# End time: 11:28:25 on Mar 26,2025, Elapsed time: 0:00:01
 # Errors: 0, Warnings: 0
 # vcom -93 -work cyclonev_hssi {/home/muhammad-ahmed-qazi/intelFPGA_lite/24.1std/quartus/eda/sim_lib/cyclonev_hssi_atoms.vhd}
 # Questa Intel Starter FPGA Edition-64 vcom 2024.3 Compiler 2024.09 Sep 10 2024
-# Start time: 11:56:47 on Mar 25,2025
+# Start time: 11:28:25 on Mar 26,2025
 # vcom -reportprogress 300 -93 -work cyclonev_hssi /home/muhammad-ahmed-qazi/intelFPGA_lite/24.1std/quartus/eda/sim_lib/cyclonev_hssi_atoms.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -913,7 +913,7 @@
 # -- Compiling architecture behavior of cyclonev_hssi_pma_hi_pmaif
 # -- Compiling entity cyclonev_hssi_pma_hi_xcvrif
 # -- Compiling architecture behavior of cyclonev_hssi_pma_hi_xcvrif
-# End time: 11:56:47 on Mar 25,2025, Elapsed time: 0:00:00
+# End time: 11:28:25 on Mar 26,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # 
 # if {[file exists rtl_work]} {
@@ -927,7 +927,7 @@
 # 
 # vcom -93 -work work {/home/muhammad-ahmed-qazi/Documents/GitHub/4-bit-VGA-Controller-on-FPGA/vga_sync.vhd}
 # Questa Intel Starter FPGA Edition-64 vcom 2024.3 Compiler 2024.09 Sep 10 2024
-# Start time: 11:56:48 on Mar 25,2025
+# Start time: 11:28:25 on Mar 26,2025
 # vcom -reportprogress 300 -93 -work work /home/muhammad-ahmed-qazi/Documents/GitHub/4-bit-VGA-Controller-on-FPGA/vga_sync.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -935,12 +935,12 @@
 # -- Loading package NUMERIC_STD
 # -- Compiling entity vga_sync
 # -- Compiling architecture arch of vga_sync
-# End time: 11:56:48 on Mar 25,2025, Elapsed time: 0:00:00
+# End time: 11:28:25 on Mar 26,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # 
 # vcom -93 -work work {/home/muhammad-ahmed-qazi/Documents/GitHub/4-bit-VGA-Controller-on-FPGA/vga_sync_tb.vhd}
 # Questa Intel Starter FPGA Edition-64 vcom 2024.3 Compiler 2024.09 Sep 10 2024
-# Start time: 11:56:48 on Mar 25,2025
+# Start time: 11:28:25 on Mar 26,2025
 # vcom -reportprogress 300 -93 -work work /home/muhammad-ahmed-qazi/Documents/GitHub/4-bit-VGA-Controller-on-FPGA/vga_sync_tb.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -949,12 +949,12 @@
 # -- Compiling entity vga_sync_tb
 # -- Compiling architecture testbench of vga_sync_tb
 # -- Loading entity vga_sync
-# End time: 11:56:48 on Mar 25,2025, Elapsed time: 0:00:00
+# End time: 11:28:25 on Mar 26,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # 
 # vsim -t 1ps -L altera -L lpm -L sgate -L altera_mf -L altera_lnsim -L cyclonev -L cyclonev_hssi -L rtl_work -L work -voptargs="+acc"  vga_sync_tb
 # vsim -t 1ps -L altera -L lpm -L sgate -L altera_mf -L altera_lnsim -L cyclonev -L cyclonev_hssi -L rtl_work -L work -voptargs=""+acc"" vga_sync_tb 
-# Start time: 11:56:48 on Mar 25,2025
+# Start time: 11:28:25 on Mar 26,2025
 # ** Note: (vsim-3812) Design is being optimized...
 # ** Warning: (vopt-10908) Some optimizations are turned off because the +acc switch is in effect.
 # ** Note: (vsim-12126) Error and warning message counts have been restored: Errors=0, Warnings=1.
@@ -977,3 +977,2722 @@
 #    Time: 0 ps  Iteration: 0  Instance: /vga_sync_tb/UUT
 # ** Warning: NUMERIC_STD.">=": metavalue detected, returning FALSE
 #    Time: 0 ps  Iteration: 0  Instance: /vga_sync_tb/UUT
+# ** Error: Error: VSYNC pulse width incorrect! Expected 6, got 8
+#    Time: 130764 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** VSYNC pulse width is correct: 8
+#    Time: 130764 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 8
+#    Time: 130764 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 8
+#    Time: 130764 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 36560076 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 36560076 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 77912268 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 77912268 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 119264460 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 119264460 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 160616652 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 160616652 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 201968844 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 201968844 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 243321036 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 243321036 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 284673228 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 284673228 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 326025420 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 326025420 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 367377612 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 367377612 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 408729804 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 408729804 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 450081996 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 450081996 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 491434188 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 491434188 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 532786380 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 532786380 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 574138572 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 574138572 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 615490764 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 615490764 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 656842956 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 656842956 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 698195148 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 698195148 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 739547340 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 739547340 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 780899532 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 780899532 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 822251724 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 822251724 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 863603916 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 863603916 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 904956108 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 904956108 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 946308300 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 946308300 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 987660492 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 987660492 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 1029012684 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 1029012684 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 1070364876 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 1070364876 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 1111717068 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 1111717068 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 1153069260 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 1153069260 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 1194421452 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 1194421452 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 1235773644 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 1235773644 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 1277125836 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 1277125836 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 1318478028 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 1318478028 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 1359830220 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 1359830220 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 1401182412 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 1401182412 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 1442534604 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 1442534604 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 1483886796 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 1483886796 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 1525238988 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 1525238988 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 1566591180 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 1566591180 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 1607943372 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 1607943372 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 1649295564 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 1649295564 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 1690647756 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 1690647756 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 1731999948 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 1731999948 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 1773352140 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 1773352140 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 1814704332 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 1814704332 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 1856056524 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 1856056524 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 1897408716 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 1897408716 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 1938760908 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 1938760908 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 1980113100 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 1980113100 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 2021465292 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 2021465292 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 2062817484 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 2062817484 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 2104169676 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 2104169676 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 2145521868 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 2145521868 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 2186874060 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 2186874060 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 2228226252 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 2228226252 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 2269578444 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 2269578444 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 2310930636 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 2310930636 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 2352282828 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 2352282828 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 2393635020 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 2393635020 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 2434987212 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 2434987212 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 2476339404 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 2476339404 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 2517691596 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 2517691596 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 2559043788 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 2559043788 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 2600395980 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 2600395980 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 2641748172 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 2641748172 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 2683100364 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 2683100364 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 2724452556 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 2724452556 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 2765804748 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 2765804748 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 2807156940 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 2807156940 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 2848509132 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 2848509132 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 2889861324 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 2889861324 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 2931213516 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 2931213516 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 2972565708 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 2972565708 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 3013917900 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 3013917900 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 3055270092 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 3055270092 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 3096622284 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 3096622284 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 3137974476 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 3137974476 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 3179326668 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 3179326668 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 3220678860 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 3220678860 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 3262031052 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 3262031052 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 3303383244 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 3303383244 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 3344735436 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 3344735436 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 3386087628 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 3386087628 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 3427439820 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 3427439820 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 3468792012 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 3468792012 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 3510144204 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 3510144204 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 3551496396 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 3551496396 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 3592848588 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 3592848588 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 3634200780 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 3634200780 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 3675552972 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 3675552972 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 3716905164 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 3716905164 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 3758257356 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 3758257356 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 3799609548 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 3799609548 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 3840961740 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 3840961740 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 3882313932 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 3882313932 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 3923666124 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 3923666124 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 3965018316 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 3965018316 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 4006370508 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 4006370508 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 4047722700 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 4047722700 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 4089074892 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 4089074892 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 4130427084 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 4130427084 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 4171779276 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 4171779276 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 4213131468 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 4213131468 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 4254483660 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 4254483660 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 4295835852 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 4295835852 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 4337188044 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 4337188044 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 4378540236 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 4378540236 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 4419892428 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 4419892428 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 4461244620 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 4461244620 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 4502596812 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 4502596812 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 4543949004 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 4543949004 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 4585301196 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 4585301196 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 4626653388 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 4626653388 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 4668005580 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 4668005580 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 4709357772 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 4709357772 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 4750709964 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 4750709964 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 4792062156 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 4792062156 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 4833414348 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 4833414348 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 4874766540 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 4874766540 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 4916118732 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 4916118732 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 4957470924 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 4957470924 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 4998823116 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 4998823116 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 5040175308 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 5040175308 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 5081527500 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 5081527500 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 5122879692 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 5122879692 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 5164231884 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 5164231884 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 5205584076 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 5205584076 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 5246936268 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 5246936268 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 5288288460 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 5288288460 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 5329640652 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 5329640652 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 5370992844 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 5370992844 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 5412345036 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 5412345036 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 5453697228 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 5453697228 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 5495049420 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 5495049420 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 5536401612 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 5536401612 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 5577753804 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 5577753804 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 5619105996 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 5619105996 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 5660458188 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 5660458188 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 5701810380 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 5701810380 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 5743162572 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 5743162572 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 5784514764 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 5784514764 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 5825866956 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 5825866956 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 5867219148 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 5867219148 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 5908571340 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 5908571340 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 5949923532 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 5949923532 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 5991275724 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 5991275724 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 6032627916 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 6032627916 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 6073980108 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 6073980108 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 6115332300 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 6115332300 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 6156684492 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 6156684492 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 6198036684 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 6198036684 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 6239388876 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 6239388876 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 6280741068 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 6280741068 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 6322093260 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 6322093260 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 6363445452 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 6363445452 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 6404797644 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 6404797644 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 6446149836 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 6446149836 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 6487502028 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 6487502028 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 6528854220 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 6528854220 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 6570206412 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 6570206412 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 6611558604 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 6611558604 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 6652910796 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 6652910796 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 6694262988 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 6694262988 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 6735615180 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 6735615180 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 6776967372 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 6776967372 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 6818319564 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 6818319564 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 6859671756 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 6859671756 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 6901023948 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 6901023948 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 6942376140 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 6942376140 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 6983728332 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 6983728332 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 7025080524 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 7025080524 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 7066432716 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 7066432716 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 7107784908 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 7107784908 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 7149137100 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 7149137100 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 7190489292 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 7190489292 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 7231841484 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 7231841484 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 7273193676 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 7273193676 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 7314545868 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 7314545868 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 7355898060 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 7355898060 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 7397250252 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 7397250252 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 7438602444 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 7438602444 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 7479954636 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 7479954636 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 7521306828 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 7521306828 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 7562659020 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 7562659020 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 7604011212 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 7604011212 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 7645363404 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 7645363404 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 7686715596 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 7686715596 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 7728067788 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 7728067788 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 7769419980 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 7769419980 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 7810772172 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 7810772172 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 7852124364 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 7852124364 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 7893476556 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 7893476556 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 7934828748 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 7934828748 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 7976180940 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 7976180940 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 8017533132 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 8017533132 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 8058885324 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 8058885324 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 8100237516 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 8100237516 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 8141589708 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 8141589708 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 8182941900 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 8182941900 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 8224294092 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 8224294092 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 8265646284 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 8265646284 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 8306998476 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 8306998476 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 8348350668 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 8348350668 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 8389702860 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 8389702860 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 8431055052 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 8431055052 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 8472407244 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 8472407244 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 8513759436 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 8513759436 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 8555111628 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 8555111628 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 8596463820 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 8596463820 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 8637816012 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 8637816012 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 8679168204 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 8679168204 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 8720520396 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 8720520396 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 8761872588 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 8761872588 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 8803224780 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 8803224780 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 8844576972 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 8844576972 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 8885929164 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 8885929164 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 8927281356 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 8927281356 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 8968633548 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 8968633548 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 9009985740 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 9009985740 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 9051337932 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 9051337932 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 9092690124 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 9092690124 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 9134042316 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 9134042316 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 9175394508 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 9175394508 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 9216746700 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 9216746700 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 9258098892 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 9258098892 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 9299451084 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 9299451084 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 9340803276 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 9340803276 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 9382155468 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 9382155468 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 9423507660 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 9423507660 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 9464859852 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 9464859852 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 9506212044 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 9506212044 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 9547564236 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 9547564236 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 9588916428 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 9588916428 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 9630268620 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 9630268620 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 9671620812 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 9671620812 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 9712973004 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 9712973004 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 9754325196 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 9754325196 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 9795677388 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 9795677388 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 9837029580 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 9837029580 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 9878381772 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 9878381772 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 9919733964 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 9919733964 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 9961086156 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 9961086156 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 10002438348 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 10002438348 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 10043790540 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 10043790540 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 10085142732 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 10085142732 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 10126494924 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 10126494924 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 10167847116 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 10167847116 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 10209199308 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 10209199308 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 10250551500 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 10250551500 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 10291903692 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 10291903692 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 10333255884 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 10333255884 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 10374608076 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 10374608076 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 10415960268 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 10415960268 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 10457312460 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 10457312460 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 10498664652 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 10498664652 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 10540016844 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 10540016844 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 10581369036 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 10581369036 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 10622721228 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 10622721228 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 10664073420 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 10664073420 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 10705425612 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 10705425612 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 10746777804 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 10746777804 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 10788129996 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 10788129996 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 10829482188 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 10829482188 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 10870834380 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 10870834380 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 10912186572 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 10912186572 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 10953538764 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 10953538764 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 10994890956 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 10994890956 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 11036243148 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 11036243148 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 11077595340 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 11077595340 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 11118947532 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 11118947532 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 11160299724 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 11160299724 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 11201651916 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 11201651916 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 11243004108 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 11243004108 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 11284356300 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 11284356300 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 11325708492 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 11325708492 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 11367060684 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 11367060684 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 11408412876 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 11408412876 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 11449765068 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 11449765068 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 11491117260 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 11491117260 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 11532469452 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 11532469452 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 11573821644 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 11573821644 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 11615173836 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 11615173836 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 11656526028 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 11656526028 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 11697878220 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 11697878220 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 11739230412 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 11739230412 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 11780582604 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 11780582604 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 11821934796 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 11821934796 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 11863286988 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 11863286988 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 11904639180 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 11904639180 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 11945991372 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 11945991372 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 11987343564 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 11987343564 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 12028695756 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 12028695756 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 12070047948 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 12070047948 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 12111400140 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 12111400140 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 12152752332 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 12152752332 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 12194104524 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 12194104524 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 12235456716 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 12235456716 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 12276808908 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 12276808908 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 12318161100 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 12318161100 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 12359513292 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 12359513292 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 12400865484 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 12400865484 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 12442217676 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 12442217676 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 12483569868 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 12483569868 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 12524922060 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 12524922060 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 12566274252 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 12566274252 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 12607626444 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 12607626444 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 12648978636 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 12648978636 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 12690330828 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 12690330828 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 12731683020 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 12731683020 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 12773035212 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 12773035212 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 12814387404 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 12814387404 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 12855739596 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 12855739596 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 12897091788 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 12897091788 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 12938443980 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 12938443980 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 12979796172 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 12979796172 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 13021148364 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 13021148364 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 13062500556 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 13062500556 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 13103852748 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 13103852748 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 13145204940 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 13145204940 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 13186557132 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 13186557132 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 13227909324 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 13227909324 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 13269261516 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 13269261516 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 13310613708 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 13310613708 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 13351965900 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 13351965900 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 13393318092 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 13393318092 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 13434670284 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 13434670284 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 13476022476 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 13476022476 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 13517374668 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 13517374668 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 13558726860 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 13558726860 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 13600079052 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 13600079052 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 13641431244 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 13641431244 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 13682783436 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 13682783436 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 13724135628 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 13724135628 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 13765487820 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 13765487820 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 13806840012 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 13806840012 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 13848192204 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 13848192204 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 13889544396 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 13889544396 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 13930896588 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 13930896588 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 13972248780 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 13972248780 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 14013600972 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 14013600972 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 14054953164 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 14054953164 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 14096305356 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 14096305356 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 14137657548 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 14137657548 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 14179009740 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 14179009740 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 14220361932 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 14220361932 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 14261714124 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 14261714124 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 14303066316 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 14303066316 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 14344418508 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 14344418508 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 14385770700 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 14385770700 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 14427122892 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 14427122892 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 14468475084 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 14468475084 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 14509827276 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 14509827276 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 14551179468 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 14551179468 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 14592531660 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 14592531660 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 14633883852 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 14633883852 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 14675236044 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 14675236044 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 14716588236 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 14716588236 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 14757940428 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 14757940428 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 14799292620 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 14799292620 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 14840644812 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 14840644812 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 14881997004 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 14881997004 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 14923349196 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 14923349196 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 14964701388 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 14964701388 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 15006053580 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 15006053580 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 15047405772 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 15047405772 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 15088757964 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 15088757964 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 15130110156 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 15130110156 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 15171462348 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 15171462348 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 15212814540 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 15212814540 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 15254166732 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 15254166732 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 15295518924 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 15295518924 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 15336871116 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 15336871116 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 15378223308 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 15378223308 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 15419575500 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 15419575500 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 15460927692 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 15460927692 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 15502279884 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 15502279884 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 15543632076 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 15543632076 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 15584984268 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 15584984268 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 15626336460 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 15626336460 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 15667688652 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 15667688652 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 15709040844 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 15709040844 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 15750393036 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 15750393036 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 15791745228 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 15791745228 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 15833097420 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 15833097420 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 15874449612 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 15874449612 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 15915801804 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 15915801804 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 15957153996 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 15957153996 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 15998506188 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 15998506188 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 16039858380 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 16039858380 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 16081210572 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 16081210572 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 16122562764 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 16122562764 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 16163914956 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 16163914956 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 16205267148 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 16205267148 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 16246619340 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 16246619340 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 16287971532 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 16287971532 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 16329323724 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 16329323724 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 16370675916 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 16370675916 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 16412028108 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 16412028108 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 16453380300 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 16453380300 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 16494732492 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 16494732492 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 16536084684 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 16536084684 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 16577436876 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 16577436876 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 16618789068 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 16618789068 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 16660141260 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 16660141260 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 16701493452 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 16701493452 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 16742845644 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 16742845644 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 16784197836 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 16784197836 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 16825550028 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 16825550028 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 16866902220 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 16866902220 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 16908254412 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 16908254412 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 16949606604 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 16949606604 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 16990958796 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 16990958796 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 17032310988 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 17032310988 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 17073663180 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 17073663180 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 17115015372 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 17115015372 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 17156367564 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 17156367564 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 17197719756 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 17197719756 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 17239071948 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 17239071948 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 17280424140 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 17280424140 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 17321776332 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 17321776332 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 17363128524 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 17363128524 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 17404480716 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 17404480716 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 17445832908 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 17445832908 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 17487185100 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 17487185100 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 17528537292 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 17528537292 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 17569889484 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 17569889484 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 17611241676 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 17611241676 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 17652593868 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 17652593868 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 17693946060 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 17693946060 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 17735298252 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 17735298252 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 17776650444 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 17776650444 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 17818002636 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 17818002636 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 17859354828 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 17859354828 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 17900707020 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 17900707020 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 17942059212 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 17942059212 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Error: Error: HSYNC pulse width incorrect! Expected 136, got 272
+#    Time: 17983411404 ps  Iteration: 1  Instance: /vga_sync_tb
+# ** Note: ** HSYNC pulse width is correct: 272
+#    Time: 17983411404 ps  Iteration: 1  Instance: /vga_sync_tb
+do VGA-Controller_run_msim_rtl_vhdl.do
+# if ![file isdirectory vhdl_libs] {
+# 	file mkdir vhdl_libs
+# }
+# 
+# vlib vhdl_libs/altera
+# ** Warning: (vlib-34) Library already exists at "vhdl_libs/altera".
+# Errors: 0, Warnings: 1
+# vmap altera ./vhdl_libs/altera
+# Questa Intel Starter FPGA Edition-64 vmap 2024.3 Lib Mapping Utility 2024.09 Sep 10 2024
+# vmap altera ./vhdl_libs/altera 
+# Modifying modelsim.ini
+# vcom -93 -work altera {/home/muhammad-ahmed-qazi/intelFPGA_lite/24.1std/quartus/eda/sim_lib/altera_syn_attributes.vhd}
+# Questa Intel Starter FPGA Edition-64 vcom 2024.3 Compiler 2024.09 Sep 10 2024
+# Start time: 11:31:14 on Mar 26,2025
+# vcom -reportprogress 300 -93 -work altera /home/muhammad-ahmed-qazi/intelFPGA_lite/24.1std/quartus/eda/sim_lib/altera_syn_attributes.vhd 
+# -- Loading package STANDARD
+# -- Compiling package altera_syn_attributes
+# End time: 11:31:14 on Mar 26,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vcom -93 -work altera {/home/muhammad-ahmed-qazi/intelFPGA_lite/24.1std/quartus/eda/sim_lib/altera_standard_functions.vhd}
+# Questa Intel Starter FPGA Edition-64 vcom 2024.3 Compiler 2024.09 Sep 10 2024
+# Start time: 11:31:14 on Mar 26,2025
+# vcom -reportprogress 300 -93 -work altera /home/muhammad-ahmed-qazi/intelFPGA_lite/24.1std/quartus/eda/sim_lib/altera_standard_functions.vhd 
+# -- Loading package STANDARD
+# -- Compiling package altera_standard_functions
+# -- Compiling package body altera_standard_functions
+# -- Loading package altera_standard_functions
+# End time: 11:31:14 on Mar 26,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vcom -93 -work altera {/home/muhammad-ahmed-qazi/intelFPGA_lite/24.1std/quartus/eda/sim_lib/alt_dspbuilder_package.vhd}
+# Questa Intel Starter FPGA Edition-64 vcom 2024.3 Compiler 2024.09 Sep 10 2024
+# Start time: 11:31:14 on Mar 26,2025
+# vcom -reportprogress 300 -93 -work altera /home/muhammad-ahmed-qazi/intelFPGA_lite/24.1std/quartus/eda/sim_lib/alt_dspbuilder_package.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package std_logic_arith
+# -- Compiling package alt_dspbuilder_package
+# -- Compiling package body alt_dspbuilder_package
+# -- Loading package alt_dspbuilder_package
+# End time: 11:31:14 on Mar 26,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vcom -93 -work altera {/home/muhammad-ahmed-qazi/intelFPGA_lite/24.1std/quartus/eda/sim_lib/altera_europa_support_lib.vhd}
+# Questa Intel Starter FPGA Edition-64 vcom 2024.3 Compiler 2024.09 Sep 10 2024
+# Start time: 11:31:14 on Mar 26,2025
+# vcom -reportprogress 300 -93 -work altera /home/muhammad-ahmed-qazi/intelFPGA_lite/24.1std/quartus/eda/sim_lib/altera_europa_support_lib.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Loading package std_logic_arith
+# -- Loading package STD_LOGIC_UNSIGNED
+# -- Compiling package altera_europa_support_lib
+# -- Compiling package body altera_europa_support_lib
+# -- Loading package altera_europa_support_lib
+# End time: 11:31:14 on Mar 26,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vcom -93 -work altera {/home/muhammad-ahmed-qazi/intelFPGA_lite/24.1std/quartus/eda/sim_lib/altera_primitives_components.vhd}
+# Questa Intel Starter FPGA Edition-64 vcom 2024.3 Compiler 2024.09 Sep 10 2024
+# Start time: 11:31:14 on Mar 26,2025
+# vcom -reportprogress 300 -93 -work altera /home/muhammad-ahmed-qazi/intelFPGA_lite/24.1std/quartus/eda/sim_lib/altera_primitives_components.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package VITAL_Timing
+# -- Loading package VITAL_Primitives
+# -- Compiling package dffeas_pack
+# -- Loading package dffeas_pack
+# -- Compiling package altera_primitives_components
+# End time: 11:31:14 on Mar 26,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vcom -93 -work altera {/home/muhammad-ahmed-qazi/intelFPGA_lite/24.1std/quartus/eda/sim_lib/altera_primitives.vhd}
+# Questa Intel Starter FPGA Edition-64 vcom 2024.3 Compiler 2024.09 Sep 10 2024
+# Start time: 11:31:14 on Mar 26,2025
+# vcom -reportprogress 300 -93 -work altera /home/muhammad-ahmed-qazi/intelFPGA_lite/24.1std/quartus/eda/sim_lib/altera_primitives.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity GLOBAL
+# -- Compiling architecture BEHAVIOR of GLOBAL
+# -- Compiling entity CARRY
+# -- Compiling architecture BEHAVIOR of CARRY
+# -- Compiling entity CASCADE
+# -- Compiling architecture BEHAVIOR of CASCADE
+# -- Compiling entity CARRY_SUM
+# -- Compiling architecture BEHAVIOR of CARRY_SUM
+# -- Compiling entity EXP
+# -- Compiling architecture BEHAVIOR of EXP
+# -- Compiling entity SOFT
+# -- Compiling architecture BEHAVIOR of SOFT
+# -- Compiling entity OPNDRN
+# -- Compiling architecture BEHAVIOR of OPNDRN
+# -- Compiling entity ROW_GLOBAL
+# -- Compiling architecture BEHAVIOR of ROW_GLOBAL
+# -- Compiling entity TRI
+# -- Compiling architecture BEHAVIOR of TRI
+# -- Compiling entity LUT_INPUT
+# -- Compiling architecture BEHAVIOR of LUT_INPUT
+# -- Compiling entity LUT_OUTPUT
+# -- Compiling architecture BEHAVIOR of LUT_OUTPUT
+# -- Compiling entity latch
+# -- Compiling architecture BEHAVIOR of latch
+# -- Compiling entity dlatch
+# -- Compiling architecture BEHAVIOR of dlatch
+# -- Compiling entity PRIM_GDFF
+# -- Compiling architecture BEHAVIOR of PRIM_GDFF
+# -- Loading entity PRIM_GDFF
+# -- Compiling entity DFF
+# -- Compiling architecture BEHAVIOR of DFF
+# -- Compiling entity DFFE
+# -- Compiling architecture BEHAVIOR of DFFE
+# -- Compiling entity DFFEA
+# -- Compiling architecture BEHAVIOR of DFFEA
+# -- Loading package VITAL_Timing
+# -- Loading package VITAL_Primitives
+# -- Loading package dffeas_pack
+# -- Compiling entity DFFEAS
+# -- Compiling architecture vital_dffeas of dffeas
+# -- Compiling entity PRIM_GTFF
+# -- Compiling architecture BEHAVIOR of PRIM_GTFF
+# -- Loading entity PRIM_GTFF
+# -- Compiling entity TFF
+# -- Compiling architecture BEHAVIOR of TFF
+# -- Compiling entity TFFE
+# -- Compiling architecture BEHAVIOR of TFFE
+# -- Compiling entity PRIM_GJKFF
+# -- Compiling architecture BEHAVIOR of PRIM_GJKFF
+# -- Loading entity PRIM_GJKFF
+# -- Compiling entity JKFF
+# -- Compiling architecture BEHAVIOR of JKFF
+# -- Compiling entity JKFFE
+# -- Compiling architecture BEHAVIOR of JKFFE
+# -- Compiling entity PRIM_GSRFF
+# -- Compiling architecture BEHAVIOR of PRIM_GSRFF
+# -- Loading entity PRIM_GSRFF
+# -- Compiling entity SRFF
+# -- Compiling architecture BEHAVIOR of SRFF
+# -- Compiling entity SRFFE
+# -- Compiling architecture BEHAVIOR of SRFFE
+# -- Compiling entity clklock
+# -- Compiling architecture behavior of clklock
+# -- Compiling entity alt_inbuf
+# -- Compiling architecture BEHAVIOR of alt_inbuf
+# -- Compiling entity alt_outbuf
+# -- Compiling architecture BEHAVIOR of alt_outbuf
+# -- Compiling entity alt_outbuf_tri
+# -- Compiling architecture BEHAVIOR of alt_outbuf_tri
+# -- Compiling entity alt_iobuf
+# -- Compiling architecture BEHAVIOR of alt_iobuf
+# -- Compiling entity alt_inbuf_diff
+# -- Compiling architecture BEHAVIOR of alt_inbuf_diff
+# -- Compiling entity alt_outbuf_diff
+# -- Compiling architecture BEHAVIOR of alt_outbuf_diff
+# -- Compiling entity alt_outbuf_tri_diff
+# -- Compiling architecture BEHAVIOR of alt_outbuf_tri_diff
+# -- Compiling entity alt_iobuf_diff
+# -- Compiling architecture BEHAVIOR of alt_iobuf_diff
+# -- Compiling entity alt_bidir_diff
+# -- Compiling architecture BEHAVIOR of alt_bidir_diff
+# -- Compiling entity alt_bidir_buf
+# -- Compiling architecture BEHAVIOR of alt_bidir_buf
+# End time: 11:31:14 on Mar 26,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# 
+# vlib vhdl_libs/lpm
+# ** Warning: (vlib-34) Library already exists at "vhdl_libs/lpm".
+# Errors: 0, Warnings: 1
+# vmap lpm ./vhdl_libs/lpm
+# Questa Intel Starter FPGA Edition-64 vmap 2024.3 Lib Mapping Utility 2024.09 Sep 10 2024
+# vmap lpm ./vhdl_libs/lpm 
+# Modifying modelsim.ini
+# vcom -93 -work lpm {/home/muhammad-ahmed-qazi/intelFPGA_lite/24.1std/quartus/eda/sim_lib/220pack.vhd}
+# Questa Intel Starter FPGA Edition-64 vcom 2024.3 Compiler 2024.09 Sep 10 2024
+# Start time: 11:31:14 on Mar 26,2025
+# vcom -reportprogress 300 -93 -work lpm /home/muhammad-ahmed-qazi/intelFPGA_lite/24.1std/quartus/eda/sim_lib/220pack.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling package LPM_COMPONENTS
+# End time: 11:31:14 on Mar 26,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vcom -93 -work lpm {/home/muhammad-ahmed-qazi/intelFPGA_lite/24.1std/quartus/eda/sim_lib/220model.vhd}
+# Questa Intel Starter FPGA Edition-64 vcom 2024.3 Compiler 2024.09 Sep 10 2024
+# Start time: 11:31:14 on Mar 26,2025
+# vcom -reportprogress 300 -93 -work lpm /home/muhammad-ahmed-qazi/intelFPGA_lite/24.1std/quartus/eda/sim_lib/220model.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling package LPM_COMMON_CONVERSION
+# -- Compiling package body LPM_COMMON_CONVERSION
+# -- Loading package LPM_COMMON_CONVERSION
+# -- Compiling package LPM_HINT_EVALUATION
+# -- Compiling package body LPM_HINT_EVALUATION
+# -- Loading package LPM_HINT_EVALUATION
+# -- Compiling package LPM_DEVICE_FAMILIES
+# -- Compiling package body LPM_DEVICE_FAMILIES
+# -- Loading package LPM_DEVICE_FAMILIES
+# -- Loading package std_logic_arith
+# -- Loading package STD_LOGIC_UNSIGNED
+# -- Loading package LPM_COMPONENTS
+# -- Compiling entity LPM_CONSTANT
+# -- Compiling architecture LPM_SYN of LPM_CONSTANT
+# -- Compiling entity LPM_INV
+# -- Compiling architecture LPM_SYN of LPM_INV
+# -- Compiling entity lpm_and
+# -- Compiling architecture LPM_SYN of lpm_and
+# -- Compiling entity LPM_OR
+# -- Compiling architecture LPM_SYN of LPM_OR
+# -- Compiling entity LPM_XOR
+# -- Compiling architecture LPM_SYN of LPM_XOR
+# -- Compiling entity LPM_BUSTRI
+# -- Compiling architecture LPM_SYN of LPM_BUSTRI
+# -- Compiling entity LPM_MUX
+# -- Compiling architecture LPM_SYN of LPM_MUX
+# -- Compiling entity LPM_DECODE
+# -- Compiling architecture LPM_SYN of LPM_DECODE
+# -- Compiling entity LPM_CLSHIFT
+# -- Compiling architecture LPM_SYN of LPM_CLSHIFT
+# -- Loading package STD_LOGIC_SIGNED
+# -- Compiling entity LPM_ADD_SUB_SIGNED
+# -- Compiling architecture LPM_SYN of LPM_ADD_SUB_SIGNED
+# -- Compiling entity LPM_ADD_SUB_UNSIGNED
+# -- Compiling architecture LPM_SYN of LPM_ADD_SUB_UNSIGNED
+# -- Loading entity LPM_ADD_SUB_SIGNED
+# -- Loading entity LPM_ADD_SUB_UNSIGNED
+# -- Compiling entity LPM_ADD_SUB
+# -- Compiling architecture LPM_SYN of LPM_ADD_SUB
+# -- Compiling entity LPM_COMPARE_SIGNED
+# -- Compiling architecture LPM_SYN of LPM_COMPARE_SIGNED
+# -- Compiling entity LPM_COMPARE_UNSIGNED
+# -- Compiling architecture LPM_SYN of LPM_COMPARE_UNSIGNED
+# -- Loading entity LPM_COMPARE_SIGNED
+# -- Loading entity LPM_COMPARE_UNSIGNED
+# -- Compiling entity LPM_COMPARE
+# -- Compiling architecture LPM_SYN of LPM_COMPARE
+# -- Loading package LPM_HINT_EVALUATION
+# -- Compiling entity LPM_MULT
+# -- Compiling architecture LPM_SYN of LPM_MULT
+# -- Compiling entity LPM_DIVIDE
+# -- Compiling architecture behave of lpm_divide
+# -- Compiling entity lpm_abs
+# -- Compiling architecture LPM_SYN of LPM_ABS
+# -- Loading package LPM_COMMON_CONVERSION
+# -- Compiling entity LPM_COUNTER
+# -- Compiling architecture LPM_SYN of LPM_COUNTER
+# -- Compiling entity LPM_LATCH
+# -- Compiling architecture LPM_SYN of LPM_LATCH
+# -- Compiling entity LPM_FF
+# -- Compiling architecture LPM_SYN of LPM_FF
+# -- Compiling entity LPM_SHIFTREG
+# -- Compiling architecture LPM_SYN of LPM_SHIFTREG
+# -- Loading package LPM_DEVICE_FAMILIES
+# -- Compiling entity LPM_RAM_DQ
+# -- Compiling architecture LPM_SYN of lpm_ram_dq
+# -- Compiling entity LPM_RAM_DP
+# -- Compiling architecture LPM_SYN of LPM_RAM_DP
+# -- Compiling entity LPM_RAM_IO
+# -- Compiling architecture LPM_SYN of lpm_ram_io
+# -- Compiling entity LPM_ROM
+# -- Compiling architecture LPM_SYN of lpm_rom
+# -- Compiling entity LPM_FIFO
+# -- Compiling architecture behavior of LPM_FIFO
+# -- Compiling entity LPM_FIFO_DC_DFFPIPE
+# -- Compiling architecture behavior of LPM_FIFO_DC_DFFPIPE
+# -- Compiling entity LPM_FIFO_DC_FEFIFO
+# -- Compiling architecture behavior of LPM_FIFO_DC_FEFIFO
+# -- Loading entity LPM_FIFO_DC_FEFIFO
+# -- Loading entity LPM_FIFO_DC_DFFPIPE
+# -- Compiling entity LPM_FIFO_DC_ASYNC
+# -- Compiling architecture behavior of LPM_FIFO_DC_ASYNC
+# -- Loading entity LPM_FIFO_DC_ASYNC
+# -- Compiling entity LPM_FIFO_DC
+# -- Compiling architecture behavior of LPM_FIFO_DC
+# -- Compiling entity LPM_INpad
+# -- Compiling architecture LPM_SYN of LPM_INpad
+# -- Compiling entity LPM_OUTpad
+# -- Compiling architecture LPM_SYN of LPM_OUTpad
+# -- Compiling entity LPM_BIpad
+# -- Compiling architecture LPM_SYN of LPM_BIpad
+# End time: 11:31:15 on Mar 26,2025, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# 
+# vlib vhdl_libs/sgate
+# ** Warning: (vlib-34) Library already exists at "vhdl_libs/sgate".
+# Errors: 0, Warnings: 1
+# vmap sgate ./vhdl_libs/sgate
+# Questa Intel Starter FPGA Edition-64 vmap 2024.3 Lib Mapping Utility 2024.09 Sep 10 2024
+# vmap sgate ./vhdl_libs/sgate 
+# Modifying modelsim.ini
+# vcom -93 -work sgate {/home/muhammad-ahmed-qazi/intelFPGA_lite/24.1std/quartus/eda/sim_lib/sgate_pack.vhd}
+# Questa Intel Starter FPGA Edition-64 vcom 2024.3 Compiler 2024.09 Sep 10 2024
+# Start time: 11:31:15 on Mar 26,2025
+# vcom -reportprogress 300 -93 -work sgate /home/muhammad-ahmed-qazi/intelFPGA_lite/24.1std/quartus/eda/sim_lib/sgate_pack.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling package sgate_pack
+# -- Compiling package body sgate_pack
+# -- Loading package sgate_pack
+# End time: 11:31:15 on Mar 26,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vcom -93 -work sgate {/home/muhammad-ahmed-qazi/intelFPGA_lite/24.1std/quartus/eda/sim_lib/sgate.vhd}
+# Questa Intel Starter FPGA Edition-64 vcom 2024.3 Compiler 2024.09 Sep 10 2024
+# Start time: 11:31:15 on Mar 26,2025
+# vcom -reportprogress 300 -93 -work sgate /home/muhammad-ahmed-qazi/intelFPGA_lite/24.1std/quartus/eda/sim_lib/sgate.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package std_logic_arith
+# -- Loading package STD_LOGIC_SIGNED
+# -- Compiling entity oper_add
+# -- Compiling architecture sim_arch of oper_add
+# -- Compiling entity oper_addsub
+# -- Compiling architecture sim_arch of oper_addsub
+# -- Compiling entity mux21
+# -- Compiling architecture sim_arch of mux21
+# -- Compiling entity io_buf_tri
+# -- Compiling architecture sim_arch of io_buf_tri
+# -- Compiling entity io_buf_opdrn
+# -- Compiling architecture sim_arch of io_buf_opdrn
+# -- Compiling entity tri_bus
+# -- Compiling architecture sim_arch of tri_bus
+# -- Compiling entity oper_mult
+# -- Compiling architecture sim_arch of oper_mult
+# -- Loading package LPM_COMPONENTS
+# -- Compiling entity oper_div
+# -- Compiling architecture sim_arch of oper_div
+# -- Compiling entity oper_mod
+# -- Compiling architecture sim_arch of oper_mod
+# -- Loading package STD_LOGIC_UNSIGNED
+# -- Compiling entity oper_left_shift
+# -- Compiling architecture sim_arch of oper_left_shift
+# -- Compiling entity oper_right_shift
+# -- Compiling architecture sim_arch of oper_right_shift
+# -- Compiling entity oper_rotate_left
+# -- Compiling architecture sim_arch of oper_rotate_left
+# -- Compiling entity oper_rotate_right
+# -- Compiling architecture sim_arch of oper_rotate_right
+# -- Compiling entity oper_less_than
+# -- Compiling architecture sim_arch of oper_less_than
+# -- Loading package sgate_pack
+# -- Compiling entity oper_mux
+# -- Compiling architecture sim_arch of oper_mux
+# -- Compiling entity oper_selector
+# -- Compiling architecture sim_arch of oper_selector
+# -- Compiling entity oper_prio_selector
+# -- Compiling architecture sim_arch of oper_prio_selector
+# -- Compiling entity oper_decoder
+# -- Compiling architecture sim_arch of oper_decoder
+# -- Compiling entity oper_bus_mux
+# -- Compiling architecture sim_arch of oper_bus_mux
+# -- Compiling entity oper_latch
+# -- Compiling architecture sim_arch of oper_latch
+# End time: 11:31:15 on Mar 26,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# 
+# vlib vhdl_libs/altera_mf
+# ** Warning: (vlib-34) Library already exists at "vhdl_libs/altera_mf".
+# Errors: 0, Warnings: 1
+# vmap altera_mf ./vhdl_libs/altera_mf
+# Questa Intel Starter FPGA Edition-64 vmap 2024.3 Lib Mapping Utility 2024.09 Sep 10 2024
+# vmap altera_mf ./vhdl_libs/altera_mf 
+# Modifying modelsim.ini
+# vcom -93 -work altera_mf {/home/muhammad-ahmed-qazi/intelFPGA_lite/24.1std/quartus/eda/sim_lib/altera_mf_components.vhd}
+# Questa Intel Starter FPGA Edition-64 vcom 2024.3 Compiler 2024.09 Sep 10 2024
+# Start time: 11:31:15 on Mar 26,2025
+# vcom -reportprogress 300 -93 -work altera_mf /home/muhammad-ahmed-qazi/intelFPGA_lite/24.1std/quartus/eda/sim_lib/altera_mf_components.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling package altera_mf_components
+# End time: 11:31:15 on Mar 26,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vcom -93 -work altera_mf {/home/muhammad-ahmed-qazi/intelFPGA_lite/24.1std/quartus/eda/sim_lib/altera_mf.vhd}
+# Questa Intel Starter FPGA Edition-64 vcom 2024.3 Compiler 2024.09 Sep 10 2024
+# Start time: 11:31:15 on Mar 26,2025
+# vcom -reportprogress 300 -93 -work altera_mf /home/muhammad-ahmed-qazi/intelFPGA_lite/24.1std/quartus/eda/sim_lib/altera_mf.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity LCELL
+# -- Compiling architecture BEHAVIOR of LCELL
+# -- Compiling package ALTERA_COMMON_CONVERSION
+# -- Compiling package body ALTERA_COMMON_CONVERSION
+# -- Loading package ALTERA_COMMON_CONVERSION
+# -- Compiling package ALTERA_MF_HINT_EVALUATION
+# -- Compiling package body ALTERA_MF_HINT_EVALUATION
+# -- Loading package ALTERA_MF_HINT_EVALUATION
+# -- Compiling package ALTERA_DEVICE_FAMILIES
+# -- Compiling package body ALTERA_DEVICE_FAMILIES
+# -- Loading package ALTERA_DEVICE_FAMILIES
+# -- Compiling package MF_pllpack
+# -- Compiling package body MF_pllpack
+# -- Loading package MF_pllpack
+# -- Compiling entity DFFP
+# -- Compiling architecture behave of DFFP
+# -- Compiling entity pll_iobuf
+# -- Compiling architecture BEHAVIOR of pll_iobuf
+# -- Compiling entity MF_m_cntr
+# -- Compiling architecture behave of MF_m_cntr
+# -- Compiling entity MF_n_cntr
+# -- Compiling architecture behave of MF_n_cntr
+# -- Compiling entity stx_scale_cntr
+# -- Compiling architecture behave of stx_scale_cntr
+# -- Compiling entity MF_pll_reg
+# -- Compiling architecture behave of MF_pll_reg
+# -- Loading package MF_pllpack
+# -- Loading entity MF_m_cntr
+# -- Loading entity MF_n_cntr
+# -- Loading entity stx_scale_cntr
+# -- Loading entity DFFP
+# -- Loading entity MF_pll_reg
+# -- Compiling entity MF_stratix_pll
+# -- Compiling architecture vital_pll of MF_stratix_pll
+# -- Compiling entity arm_m_cntr
+# -- Compiling architecture behave of arm_m_cntr
+# -- Compiling entity arm_n_cntr
+# -- Compiling architecture behave of arm_n_cntr
+# -- Compiling entity arm_scale_cntr
+# -- Compiling architecture behave of arm_scale_cntr
+# -- Loading entity arm_m_cntr
+# -- Loading entity arm_n_cntr
+# -- Loading entity arm_scale_cntr
+# -- Compiling entity MF_stratixii_pll
+# -- Compiling architecture vital_pll of MF_stratixii_pll
+# -- Loading package std_logic_arith
+# -- Loading package STD_LOGIC_UNSIGNED
+# -- Compiling entity MF_ttn_mn_cntr
+# -- Compiling architecture behave of MF_ttn_mn_cntr
+# -- Compiling entity MF_ttn_scale_cntr
+# -- Compiling architecture behave of MF_ttn_scale_cntr
+# -- Loading entity MF_ttn_mn_cntr
+# -- Loading entity MF_ttn_scale_cntr
+# -- Compiling entity MF_stratixiii_pll
+# -- Compiling architecture vital_pll of MF_stratixiii_pll
+# -- Compiling entity MF_cda_mn_cntr
+# -- Compiling architecture behave of MF_cda_mn_cntr
+# -- Compiling entity MF_cda_scale_cntr
+# -- Compiling architecture behave of MF_cda_scale_cntr
+# -- Loading entity MF_cda_mn_cntr
+# -- Loading entity MF_cda_scale_cntr
+# -- Compiling entity MF_cycloneiii_pll
+# -- Compiling architecture vital_pll of MF_cycloneiii_pll
+# -- Compiling entity MF_stingray_mn_cntr
+# -- Compiling architecture behave of MF_stingray_mn_cntr
+# -- Compiling entity MF_stingray_post_divider
+# -- Compiling architecture behave of MF_stingray_post_divider
+# -- Compiling entity MF_stingray_scale_cntr
+# -- Compiling architecture behave of MF_stingray_scale_cntr
+# -- Loading entity MF_stingray_mn_cntr
+# -- Loading entity MF_stingray_scale_cntr
+# -- Compiling entity MF_cycloneiiigl_pll
+# -- Compiling architecture vital_pll of MF_cycloneiiigl_pll
+# -- Loading package ALTERA_DEVICE_FAMILIES
+# -- Loading entity MF_stratix_pll
+# -- Loading entity MF_stratixii_pll
+# -- Loading entity MF_stratixiii_pll
+# -- Loading entity MF_cycloneiii_pll
+# -- Loading entity MF_cycloneiiigl_pll
+# -- Loading entity pll_iobuf
+# -- Compiling entity altpll
+# -- Compiling architecture behavior of altpll
+# -- Compiling entity altaccumulate
+# -- Compiling architecture behaviour of altaccumulate
+# -- Compiling entity altmult_accum
+# -- Compiling architecture behaviour of altmult_accum
+# -- Compiling entity altmult_add
+# -- Compiling architecture behaviour of altmult_add
+# -- Loading package ALTERA_COMMON_CONVERSION
+# -- Compiling entity altfp_mult
+# -- Compiling architecture behavior of altfp_mult
+# -- Compiling entity altsqrt
+# -- Compiling architecture behavior of altsqrt
+# -- Compiling entity altclklock
+# -- Compiling architecture behavior of altclklock
+# -- Compiling entity altddio_in
+# -- Compiling architecture behave of altddio_in
+# -- Compiling entity altddio_out
+# -- Compiling architecture behave of altddio_out
+# -- Loading entity altddio_in
+# -- Loading entity altddio_out
+# -- Compiling entity altddio_bidir
+# -- Compiling architecture struct of altddio_bidir
+# -- Compiling entity stratixii_lvds_rx
+# -- Compiling architecture behavior of stratixii_lvds_rx
+# -- Compiling entity flexible_lvds_rx
+# -- Compiling architecture behavior of flexible_lvds_rx
+# -- Compiling entity stratixiii_lvds_rx_dpa
+# -- Compiling architecture behavior of stratixiii_lvds_rx_dpa
+# -- Compiling entity stratixv_local_clk_divider
+# -- Compiling architecture behavior of stratixv_local_clk_divider
+# -- Loading entity stratixiii_lvds_rx_dpa
+# -- Loading entity stratixv_local_clk_divider
+# -- Compiling entity stratixiii_lvds_rx_channel
+# -- Compiling architecture behavior of stratixiii_lvds_rx_channel
+# -- Loading entity stratixiii_lvds_rx_channel
+# -- Compiling entity stratixiii_lvds_rx
+# -- Compiling architecture behavior of stratixiii_lvds_rx
+# -- Loading entity stratixii_lvds_rx
+# -- Loading entity flexible_lvds_rx
+# -- Loading entity stratixiii_lvds_rx
+# -- Compiling entity altlvds_rx
+# -- Compiling architecture behavior of altlvds_rx
+# -- Compiling entity stratix_tx_outclk
+# -- Compiling architecture behavior of stratix_tx_outclk
+# -- Compiling entity stratixii_tx_outclk
+# -- Compiling architecture behavior of stratixii_tx_outclk
+# -- Compiling entity flexible_lvds_tx
+# -- Compiling architecture behavior of flexible_lvds_tx
+# -- Loading entity stratix_tx_outclk
+# -- Loading entity stratixii_tx_outclk
+# -- Loading entity flexible_lvds_tx
+# -- Compiling entity altlvds_tx
+# -- Compiling architecture behavior of altlvds_tx
+# -- Compiling entity altdpram
+# -- Compiling architecture behavior of altdpram
+# -- Compiling entity altsyncram
+# -- Compiling architecture translated of altsyncram
+# -- Loading entity altsyncram
+# -- Loading package ALTERA_MF_HINT_EVALUATION
+# -- Compiling entity alt3pram
+# -- Compiling architecture behavior of alt3pram
+# -- Loading package altera_mf_components
+# -- Compiling entity parallel_add
+# -- Compiling architecture behaviour of parallel_add
+# -- Compiling entity SCFIFO
+# -- Compiling architecture behavior of SCFIFO
+# -- Compiling entity DCFIFO_DFFPIPE
+# -- Compiling architecture behavior of DCFIFO_DFFPIPE
+# -- Compiling entity DCFIFO_FEFIFO
+# -- Compiling architecture behavior of DCFIFO_FEFIFO
+# -- Loading entity DCFIFO_FEFIFO
+# -- Loading entity DCFIFO_DFFPIPE
+# -- Compiling entity DCFIFO_ASYNC
+# -- Compiling architecture behavior of DCFIFO_ASYNC
+# -- Compiling entity DCFIFO_SYNC
+# -- Compiling architecture behavior of DCFIFO_SYNC
+# -- Compiling entity DCFIFO_LOW_LATENCY
+# -- Compiling architecture behavior of DCFIFO_LOW_LATENCY
+# -- Loading entity DCFIFO_ASYNC
+# -- Loading entity DCFIFO_SYNC
+# -- Loading entity DCFIFO_LOW_LATENCY
+# -- Compiling entity DCFIFO_MIXED_WIDTHS
+# -- Compiling architecture behavior of DCFIFO_MIXED_WIDTHS
+# -- Loading entity DCFIFO_MIXED_WIDTHS
+# -- Compiling entity DCFIFO
+# -- Compiling architecture behavior of DCFIFO
+# -- Compiling entity altshift_taps
+# -- Compiling architecture behavioural of altshift_taps
+# -- Compiling entity A_GRAYCOUNTER
+# -- Compiling architecture behavior of A_GRAYCOUNTER
+# -- Compiling entity altsquare
+# -- Compiling architecture altsquare_syn of altsquare
+# -- Compiling entity altera_std_synchronizer
+# -- Compiling architecture behavioral of altera_std_synchronizer
+# -- Compiling entity altera_std_synchronizer_bundle
+# -- Compiling architecture behavioral of altera_std_synchronizer_bundle
+# -- Compiling entity alt_cal
+# -- Compiling architecture RTL of alt_cal
+# -- Compiling entity alt_cal_mm
+# -- Compiling architecture RTL of alt_cal_mm
+# -- Compiling entity alt_cal_c3gxb
+# -- Compiling architecture RTL of alt_cal_c3gxb
+# -- Compiling entity alt_cal_sv
+# -- Compiling architecture RTL of alt_cal_sv
+# -- Compiling entity alt_cal_av
+# -- Compiling architecture RTL of alt_cal_av
+# -- Compiling package alt_aeq_s4_func
+# -- Compiling package body alt_aeq_s4_func
+# -- Loading package alt_aeq_s4_func
+# -- Loading package alt_aeq_s4_func
+# -- Compiling entity alt_aeq_s4
+# -- Compiling architecture trans of alt_aeq_s4
+# -- Compiling package alt_eyemon_func
+# -- Compiling package body alt_eyemon_func
+# -- Loading package alt_eyemon_func
+# -- Loading package alt_eyemon_func
+# -- Compiling entity alt_eyemon
+# -- Compiling architecture trans of alt_eyemon
+# -- Compiling package alt_dfe_func
+# -- Compiling package body alt_dfe_func
+# -- Loading package alt_dfe_func
+# -- Loading package alt_dfe_func
+# -- Compiling entity alt_dfe
+# -- Compiling architecture trans of alt_dfe
+# -- Compiling package SLD_NODE
+# -- Compiling package body SLD_NODE
+# -- Loading package SLD_NODE
+# -- Loading package SLD_NODE
+# -- Compiling entity signal_gen
+# -- Compiling architecture simModel of signal_gen
+# -- Compiling entity jtag_tap_controller
+# -- Compiling architecture FSM of jtag_tap_controller
+# -- Compiling entity dummy_hub
+# -- Compiling architecture behavior of dummy_hub
+# -- Loading entity signal_gen
+# -- Loading entity jtag_tap_controller
+# -- Loading entity dummy_hub
+# -- Compiling entity sld_virtual_jtag
+# -- Compiling architecture structural of sld_virtual_jtag
+# -- Compiling entity sld_signaltap
+# -- Compiling architecture sim_sld_signaltap of sld_signaltap
+# -- Compiling entity altstratixii_oct
+# -- Compiling architecture sim_altstratixii_oct of altstratixii_oct
+# -- Compiling entity altparallel_flash_loader
+# -- Compiling architecture sim_altparallel_flash_loader of altparallel_flash_loader
+# -- Compiling entity altserial_flash_loader
+# -- Compiling architecture sim_altserial_flash_loader of altserial_flash_loader
+# -- Compiling entity alt_fault_injection
+# -- Compiling architecture sim_alt_fault_injection of alt_fault_injection
+# -- Compiling entity sld_virtual_jtag_basic
+# -- Compiling architecture sim_sld_virtual_jtag_basic of sld_virtual_jtag_basic
+# -- Compiling entity altsource_probe
+# -- Compiling architecture sim_altsource_probe of altsource_probe
+# End time: 11:31:15 on Mar 26,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# 
+# vlib vhdl_libs/altera_lnsim
+# ** Warning: (vlib-34) Library already exists at "vhdl_libs/altera_lnsim".
+# Errors: 0, Warnings: 1
+# vmap altera_lnsim ./vhdl_libs/altera_lnsim
+# Questa Intel Starter FPGA Edition-64 vmap 2024.3 Lib Mapping Utility 2024.09 Sep 10 2024
+# vmap altera_lnsim ./vhdl_libs/altera_lnsim 
+# Modifying modelsim.ini
+# vlog -sv -work altera_lnsim {/home/muhammad-ahmed-qazi/intelFPGA_lite/24.1std/quartus/eda/sim_lib/mentor/altera_lnsim_for_vhdl.sv}
+# Questa Intel Starter FPGA Edition-64 vlog 2024.3 Compiler 2024.09 Sep 10 2024
+# Start time: 11:31:15 on Mar 26,2025
+# vlog -reportprogress 300 -sv -work altera_lnsim /home/muhammad-ahmed-qazi/intelFPGA_lite/24.1std/quartus/eda/sim_lib/mentor/altera_lnsim_for_vhdl.sv 
+# 
+# Top level modules:
+# End time: 11:31:16 on Mar 26,2025, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# vcom -93 -work altera_lnsim {/home/muhammad-ahmed-qazi/intelFPGA_lite/24.1std/quartus/eda/sim_lib/altera_lnsim_components.vhd}
+# Questa Intel Starter FPGA Edition-64 vcom 2024.3 Compiler 2024.09 Sep 10 2024
+# Start time: 11:31:16 on Mar 26,2025
+# vcom -reportprogress 300 -93 -work altera_lnsim /home/muhammad-ahmed-qazi/intelFPGA_lite/24.1std/quartus/eda/sim_lib/altera_lnsim_components.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling package altera_lnsim_components
+# End time: 11:31:16 on Mar 26,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# 
+# vlib vhdl_libs/cyclonev
+# ** Warning: (vlib-34) Library already exists at "vhdl_libs/cyclonev".
+# Errors: 0, Warnings: 1
+# vmap cyclonev ./vhdl_libs/cyclonev
+# Questa Intel Starter FPGA Edition-64 vmap 2024.3 Lib Mapping Utility 2024.09 Sep 10 2024
+# vmap cyclonev ./vhdl_libs/cyclonev 
+# Modifying modelsim.ini
+# vlog -vlog01compat -work cyclonev {/home/muhammad-ahmed-qazi/intelFPGA_lite/24.1std/quartus/eda/sim_lib/mentor/cyclonev_atoms_ncrypt.v}
+# Questa Intel Starter FPGA Edition-64 vlog 2024.3 Compiler 2024.09 Sep 10 2024
+# Start time: 11:31:16 on Mar 26,2025
+# vlog -reportprogress 300 -vlog01compat -work cyclonev /home/muhammad-ahmed-qazi/intelFPGA_lite/24.1std/quartus/eda/sim_lib/mentor/cyclonev_atoms_ncrypt.v 
+# 
+# Top level modules:
+# End time: 11:31:17 on Mar 26,2025, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# vcom -93 -work cyclonev {/home/muhammad-ahmed-qazi/intelFPGA_lite/24.1std/quartus/eda/sim_lib/cyclonev_atoms.vhd}
+# Questa Intel Starter FPGA Edition-64 vcom 2024.3 Compiler 2024.09 Sep 10 2024
+# Start time: 11:31:17 on Mar 26,2025
+# vcom -reportprogress 300 -93 -work cyclonev /home/muhammad-ahmed-qazi/intelFPGA_lite/24.1std/quartus/eda/sim_lib/cyclonev_atoms.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package VITAL_Timing
+# -- Loading package VITAL_Primitives
+# -- Compiling package cyclonev_atom_pack
+# -- Compiling package body cyclonev_atom_pack
+# -- Loading package cyclonev_atom_pack
+# -- Compiling package cyclonev_pllpack
+# -- Compiling package body cyclonev_pllpack
+# -- Loading package cyclonev_pllpack
+# -- Loading package cyclonev_atom_pack
+# -- Compiling entity cyclonev_dffe
+# -- Compiling architecture behave of cyclonev_dffe
+# -- Compiling entity cyclonev_mux21
+# -- Compiling architecture AltVITAL of cyclonev_mux21
+# -- Compiling entity cyclonev_mux41
+# -- Compiling architecture AltVITAL of cyclonev_mux41
+# -- Compiling entity cyclonev_and1
+# -- Compiling architecture AltVITAL of cyclonev_and1
+# -- Loading entity cyclonev_and1
+# -- Compiling entity cyclonev_ff
+# -- Compiling architecture vital_lcell_ff of cyclonev_ff
+# -- Loading package std_logic_arith
+# -- Compiling entity cyclonev_pseudo_diff_out
+# -- Compiling architecture arch of cyclonev_pseudo_diff_out
+# -- Compiling entity cyclonev_lcell_comb
+# -- Compiling architecture vital_lcell_comb of cyclonev_lcell_comb
+# -- Compiling entity cyclonev_routing_wire
+# ** Warning: /home/muhammad-ahmed-qazi/intelFPGA_lite/24.1std/quartus/eda/sim_lib/cyclonev_atoms.vhd(2331): (vcom-1288) VITAL timing generic "tpd_datainglitch_dataout" port specification "datainglitch" does not denote a port.
+# (1076.4 section 4.3.2.1.3)
+# -- Compiling architecture behave of cyclonev_routing_wire
+# -- Loading package altera_lnsim_components
+# -- Compiling entity cyclonev_ram_block
+# -- Compiling architecture block_arch of cyclonev_ram_block
+# -- Loading package STD_LOGIC_UNSIGNED
+# -- Compiling entity cyclonev_mlab_cell
+# -- Compiling architecture trans of cyclonev_mlab_cell
+# -- Compiling entity cyclonev_io_ibuf
+# -- Compiling architecture arch of cyclonev_io_ibuf
+# -- Compiling entity cyclonev_io_obuf
+# -- Compiling architecture arch of cyclonev_io_obuf
+# -- Compiling entity cyclonev_ddio_in
+# -- Compiling architecture arch of cyclonev_ddio_in
+# -- Compiling entity cyclonev_ddio_oe
+# -- Compiling architecture arch of cyclonev_ddio_oe
+# -- Compiling entity cyclonev_ddio_out
+# -- Compiling architecture arch of cyclonev_ddio_out
+# -- Compiling entity cyclonev_io_pad
+# -- Compiling architecture arch of cyclonev_io_pad
+# -- Compiling entity cyclonev_bias_logic
+# -- Compiling architecture vital_bias_logic of cyclonev_bias_logic
+# -- Compiling entity cyclonev_bias_generator
+# -- Compiling architecture vital_bias_generator of cyclonev_bias_generator
+# -- Compiling entity cyclonev_bias_block
+# -- Compiling architecture vital_bias_block of cyclonev_bias_block
+# -- Compiling entity cyclonev_clk_phase_select
+# -- Compiling architecture behavior of cyclonev_clk_phase_select
+# -- Compiling entity cyclonev_clkena
+# -- Compiling architecture behavior of cyclonev_clkena
+# -- Compiling entity cyclonev_clkselect
+# -- Compiling architecture behavior of cyclonev_clkselect
+# -- Compiling entity cyclonev_delay_chain
+# -- Compiling architecture behavior of cyclonev_delay_chain
+# -- Compiling entity cyclonev_dll_offset_ctrl
+# -- Compiling architecture behavior of cyclonev_dll_offset_ctrl
+# -- Compiling entity cyclonev_dll
+# -- Compiling architecture behavior of cyclonev_dll
+# -- Compiling entity cyclonev_dqs_config
+# -- Compiling architecture behavior of cyclonev_dqs_config
+# -- Compiling entity cyclonev_dqs_delay_chain
+# -- Compiling architecture behavior of cyclonev_dqs_delay_chain
+# -- Compiling entity cyclonev_dqs_enable_ctrl
+# -- Compiling architecture behavior of cyclonev_dqs_enable_ctrl
+# -- Compiling entity cyclonev_duty_cycle_adjustment
+# -- Compiling architecture behavior of cyclonev_duty_cycle_adjustment
+# -- Compiling entity cyclonev_fractional_pll
+# -- Compiling architecture behavior of cyclonev_fractional_pll
+# -- Compiling entity cyclonev_half_rate_input
+# -- Compiling architecture behavior of cyclonev_half_rate_input
+# -- Compiling entity cyclonev_input_phase_alignment
+# -- Compiling architecture behavior of cyclonev_input_phase_alignment
+# -- Compiling entity cyclonev_io_clock_divider
+# -- Compiling architecture behavior of cyclonev_io_clock_divider
+# -- Compiling entity cyclonev_io_config
+# -- Compiling architecture behavior of cyclonev_io_config
+# -- Compiling entity cyclonev_leveling_delay_chain
+# -- Compiling architecture behavior of cyclonev_leveling_delay_chain
+# -- Compiling entity cyclonev_mem_phy
+# -- Compiling architecture behavior of cyclonev_mem_phy
+# -- Compiling entity cyclonev_phy_clkbuf
+# -- Compiling architecture behavior of cyclonev_phy_clkbuf
+# -- Compiling entity cyclonev_output_alignment
+# -- Compiling architecture behavior of cyclonev_output_alignment
+# -- Compiling entity cyclonev_pll_dll_output
+# -- Compiling architecture behavior of cyclonev_pll_dll_output
+# -- Compiling entity cyclonev_pll_dpa_output
+# -- Compiling architecture behavior of cyclonev_pll_dpa_output
+# -- Compiling entity cyclonev_pll_extclk_output
+# -- Compiling architecture behavior of cyclonev_pll_extclk_output
+# -- Compiling entity cyclonev_pll_lvds_output
+# -- Compiling architecture behavior of cyclonev_pll_lvds_output
+# -- Compiling entity cyclonev_pll_output_counter
+# -- Compiling architecture behavior of cyclonev_pll_output_counter
+# -- Compiling entity cyclonev_pll_reconfig
+# -- Compiling architecture behavior of cyclonev_pll_reconfig
+# -- Compiling entity cyclonev_pll_refclk_select
+# -- Compiling architecture behavior of cyclonev_pll_refclk_select
+# -- Compiling entity cyclonev_termination_logic
+# -- Compiling architecture behavior of cyclonev_termination_logic
+# -- Compiling entity cyclonev_termination
+# -- Compiling architecture behavior of cyclonev_termination
+# -- Compiling entity cyclonev_asmiblock
+# -- Compiling architecture behavior of cyclonev_asmiblock
+# -- Compiling entity cyclonev_chipidblock
+# -- Compiling architecture behavior of cyclonev_chipidblock
+# -- Compiling entity cyclonev_controller
+# -- Compiling architecture behavior of cyclonev_controller
+# -- Compiling entity cyclonev_crcblock
+# -- Compiling architecture behavior of cyclonev_crcblock
+# -- Compiling entity cyclonev_jtag
+# -- Compiling architecture behavior of cyclonev_jtag
+# -- Compiling entity cyclonev_prblock
+# -- Compiling architecture behavior of cyclonev_prblock
+# -- Compiling entity cyclonev_rublock
+# -- Compiling architecture behavior of cyclonev_rublock
+# -- Compiling entity cyclonev_tsdblock
+# -- Compiling architecture behavior of cyclonev_tsdblock
+# -- Compiling entity cyclonev_read_fifo
+# -- Compiling architecture behavior of cyclonev_read_fifo
+# -- Compiling entity cyclonev_read_fifo_read_enable
+# -- Compiling architecture behavior of cyclonev_read_fifo_read_enable
+# -- Compiling entity cyclonev_mac
+# -- Compiling architecture behavior of cyclonev_mac
+# -- Compiling entity cyclonev_ir_fifo_userdes
+# -- Compiling architecture behavior of cyclonev_ir_fifo_userdes
+# -- Compiling entity cyclonev_oscillator
+# -- Compiling architecture behavior of cyclonev_oscillator
+# End time: 11:31:17 on Mar 26,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 1
+# vcom -93 -work cyclonev {/home/muhammad-ahmed-qazi/intelFPGA_lite/24.1std/quartus/eda/sim_lib/cyclonev_components.vhd}
+# Questa Intel Starter FPGA Edition-64 vcom 2024.3 Compiler 2024.09 Sep 10 2024
+# Start time: 11:31:17 on Mar 26,2025
+# vcom -reportprogress 300 -93 -work cyclonev /home/muhammad-ahmed-qazi/intelFPGA_lite/24.1std/quartus/eda/sim_lib/cyclonev_components.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package VITAL_Timing
+# -- Loading package VITAL_Primitives
+# -- Loading package cyclonev_atom_pack
+# -- Compiling package cyclonev_components
+# End time: 11:31:17 on Mar 26,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# 
+# vlib vhdl_libs/cyclonev_hssi
+# ** Warning: (vlib-34) Library already exists at "vhdl_libs/cyclonev_hssi".
+# Errors: 0, Warnings: 1
+# vmap cyclonev_hssi ./vhdl_libs/cyclonev_hssi
+# Questa Intel Starter FPGA Edition-64 vmap 2024.3 Lib Mapping Utility 2024.09 Sep 10 2024
+# vmap cyclonev_hssi ./vhdl_libs/cyclonev_hssi 
+# Modifying modelsim.ini
+# vcom -93 -work cyclonev_hssi {/home/muhammad-ahmed-qazi/intelFPGA_lite/24.1std/quartus/eda/sim_lib/cyclonev_hssi_components.vhd}
+# Questa Intel Starter FPGA Edition-64 vcom 2024.3 Compiler 2024.09 Sep 10 2024
+# Start time: 11:31:17 on Mar 26,2025
+# vcom -reportprogress 300 -93 -work cyclonev_hssi /home/muhammad-ahmed-qazi/intelFPGA_lite/24.1std/quartus/eda/sim_lib/cyclonev_hssi_components.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling package CYCLONEV_HSSI_COMPONENTS
+# -- Compiling package body CYCLONEV_HSSI_COMPONENTS
+# -- Loading package CYCLONEV_HSSI_COMPONENTS
+# End time: 11:31:17 on Mar 26,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work cyclonev_hssi {/home/muhammad-ahmed-qazi/intelFPGA_lite/24.1std/quartus/eda/sim_lib/mentor/cyclonev_hssi_atoms_ncrypt.v}
+# Questa Intel Starter FPGA Edition-64 vlog 2024.3 Compiler 2024.09 Sep 10 2024
+# Start time: 11:31:17 on Mar 26,2025
+# vlog -reportprogress 300 -vlog01compat -work cyclonev_hssi /home/muhammad-ahmed-qazi/intelFPGA_lite/24.1std/quartus/eda/sim_lib/mentor/cyclonev_hssi_atoms_ncrypt.v 
+# 
+# Top level modules:
+# End time: 11:31:18 on Mar 26,2025, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# vcom -93 -work cyclonev_hssi {/home/muhammad-ahmed-qazi/intelFPGA_lite/24.1std/quartus/eda/sim_lib/cyclonev_hssi_atoms.vhd}
+# Questa Intel Starter FPGA Edition-64 vcom 2024.3 Compiler 2024.09 Sep 10 2024
+# Start time: 11:31:18 on Mar 26,2025
+# vcom -reportprogress 300 -93 -work cyclonev_hssi /home/muhammad-ahmed-qazi/intelFPGA_lite/24.1std/quartus/eda/sim_lib/cyclonev_hssi_atoms.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity cyclonev_hssi_8g_pcs_aggregate
+# -- Compiling architecture behavior of cyclonev_hssi_8g_pcs_aggregate
+# -- Loading package CYCLONEV_HSSI_COMPONENTS
+# -- Compiling entity cyclonev_hssi_8g_rx_pcs
+# -- Compiling architecture behavior of cyclonev_hssi_8g_rx_pcs
+# -- Compiling entity cyclonev_hssi_8g_tx_pcs
+# -- Compiling architecture behavior of cyclonev_hssi_8g_tx_pcs
+# -- Compiling entity cyclonev_hssi_common_pcs_pma_interface
+# -- Compiling architecture behavior of cyclonev_hssi_common_pcs_pma_interface
+# -- Compiling entity cyclonev_hssi_common_pld_pcs_interface
+# -- Compiling architecture behavior of cyclonev_hssi_common_pld_pcs_interface
+# -- Compiling entity cyclonev_hssi_pipe_gen1_2
+# -- Compiling architecture behavior of cyclonev_hssi_pipe_gen1_2
+# -- Compiling entity cyclonev_hssi_pma_aux
+# -- Compiling architecture behavior of cyclonev_hssi_pma_aux
+# -- Compiling entity cyclonev_hssi_pma_int
+# -- Compiling architecture behavior of cyclonev_hssi_pma_int
+# -- Compiling entity cyclonev_hssi_pma_rx_buf
+# -- Compiling architecture behavior of cyclonev_hssi_pma_rx_buf
+# -- Compiling entity cyclonev_hssi_pma_rx_deser
+# -- Compiling architecture behavior of cyclonev_hssi_pma_rx_deser
+# -- Compiling entity cyclonev_hssi_pma_tx_buf
+# -- Compiling architecture behavior of cyclonev_hssi_pma_tx_buf
+# -- Compiling entity cyclonev_hssi_pma_tx_cgb
+# -- Compiling architecture behavior of cyclonev_hssi_pma_tx_cgb
+# -- Compiling entity cyclonev_hssi_pma_tx_ser
+# -- Compiling architecture behavior of cyclonev_hssi_pma_tx_ser
+# -- Compiling entity cyclonev_hssi_pma_cdr_refclk_select_mux
+# -- Compiling architecture behavior of cyclonev_hssi_pma_cdr_refclk_select_mux
+# -- Compiling entity cyclonev_hssi_rx_pcs_pma_interface
+# -- Compiling architecture behavior of cyclonev_hssi_rx_pcs_pma_interface
+# -- Compiling entity cyclonev_hssi_rx_pld_pcs_interface
+# -- Compiling architecture behavior of cyclonev_hssi_rx_pld_pcs_interface
+# -- Compiling entity cyclonev_hssi_tx_pcs_pma_interface
+# -- Compiling architecture behavior of cyclonev_hssi_tx_pcs_pma_interface
+# -- Compiling entity cyclonev_hssi_tx_pld_pcs_interface
+# -- Compiling architecture behavior of cyclonev_hssi_tx_pld_pcs_interface
+# -- Compiling entity cyclonev_hssi_refclk_divider
+# -- Compiling architecture behavior of cyclonev_hssi_refclk_divider
+# -- Compiling entity cyclonev_pll_aux
+# -- Compiling architecture behavior of cyclonev_pll_aux
+# -- Compiling entity cyclonev_channel_pll
+# -- Compiling architecture behavior of cyclonev_channel_pll
+# -- Compiling entity cyclonev_hssi_avmm_interface
+# -- Compiling architecture behavior of cyclonev_hssi_avmm_interface
+# -- Compiling entity cyclonev_hssi_pma_hi_pmaif
+# -- Compiling architecture behavior of cyclonev_hssi_pma_hi_pmaif
+# -- Compiling entity cyclonev_hssi_pma_hi_xcvrif
+# -- Compiling architecture behavior of cyclonev_hssi_pma_hi_xcvrif
+# End time: 11:31:18 on Mar 26,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# 
+# if {[file exists rtl_work]} {
+# 	vdel -lib rtl_work -all
+# }
+# ** Warning: (vdel-134) Unable to remove locked optimized design "_opt".  Locker is muhammad-ahmed-qazi@muhammad-ahmed-qazi-Inspiron-15-3511.
+# vlib rtl_work
+# ** Warning: (vlib-34) Library already exists at "rtl_work".
+# Errors: 0, Warnings: 1
+# vmap work rtl_work
+# Questa Intel Starter FPGA Edition-64 vmap 2024.3 Lib Mapping Utility 2024.09 Sep 10 2024
+# vmap work rtl_work 
+# Modifying modelsim.ini
+# 
+# vcom -93 -work work {/home/muhammad-ahmed-qazi/Documents/GitHub/4-bit-VGA-Controller-on-FPGA/vga_sync.vhd}
+# Questa Intel Starter FPGA Edition-64 vcom 2024.3 Compiler 2024.09 Sep 10 2024
+# Start time: 11:31:18 on Mar 26,2025
+# vcom -reportprogress 300 -93 -work work /home/muhammad-ahmed-qazi/Documents/GitHub/4-bit-VGA-Controller-on-FPGA/vga_sync.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity vga_sync
+# -- Compiling architecture arch of vga_sync
+# End time: 11:31:18 on Mar 26,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# 
+# vcom -93 -work work {/home/muhammad-ahmed-qazi/Documents/GitHub/4-bit-VGA-Controller-on-FPGA/vga_sync_tb.vhd}
+# Questa Intel Starter FPGA Edition-64 vcom 2024.3 Compiler 2024.09 Sep 10 2024
+# Start time: 11:31:18 on Mar 26,2025
+# vcom -reportprogress 300 -93 -work work /home/muhammad-ahmed-qazi/Documents/GitHub/4-bit-VGA-Controller-on-FPGA/vga_sync_tb.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity vga_sync_tb
+# -- Compiling architecture testbench of vga_sync_tb
+# -- Loading entity vga_sync
+# End time: 11:31:18 on Mar 26,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# 
+# vsim -t 1ps -L altera -L lpm -L sgate -L altera_mf -L altera_lnsim -L cyclonev -L cyclonev_hssi -L rtl_work -L work -voptargs="+acc"  vga_sync_tb
+# End time: 11:31:18 on Mar 26,2025, Elapsed time: 0:02:53
+# Errors: 437, Warnings: 4
+# vsim -t 1ps -L altera -L lpm -L sgate -L altera_mf -L altera_lnsim -L cyclonev -L cyclonev_hssi -L rtl_work -L work -voptargs=""+acc"" vga_sync_tb 
+# Start time: 11:31:18 on Mar 26,2025
+# ** Note: (vsim-3813) Design is being optimized due to module recompilation...
+# ** Warning: (vopt-10908) Some optimizations are turned off because the +acc switch is in effect.
+# ** Note: (vsim-12126) Error and warning message counts have been restored: Errors=0, Warnings=1.
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading work.vga_sync_tb(testbench)#1
+# Loading work.vga_sync(arch)#1
+# 
+# add wave *
+# view structure
+# .main_pane.structure.interior.cs.body.struct
+# view signals
+# .main_pane.objects.interior.cs.body.tree
+# run -all
+# ** Warning: NUMERIC_STD."<": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 0  Instance: /vga_sync_tb/UUT
+# ** Warning: NUMERIC_STD.">=": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 0  Instance: /vga_sync_tb/UUT
+# ** Warning: NUMERIC_STD.">=": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 0  Instance: /vga_sync_tb/UUT
+# End time: 12:53:30 on Mar 26,2025, Elapsed time: 1:22:12
+# Errors: 0, Warnings: 4

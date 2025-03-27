@@ -8,27 +8,28 @@ entity vga_sync is
     port (
         clk, reset: in std_logic;
         hsync, vsync, video_on, p_tick: out std_logic;
-        pixel_x, pixel_y: out std_logic_vector (9 downto 0)
+        pixel_x: out std_logic_vector (10 downto 0);
+		  pixel_y: out std_logic_vector (9 downto 0)
     );
 end vga_sync;
 
 architecture arch of vga_sync is
 
-    -- 640x480 sync parameters
-    constant HD: integer := 640;  -- H. display area
-    constant HF: integer := 16;   -- H. front porch
-    constant HR: integer := 96;   -- H. retrace
-    constant HB: integer := 48;   -- H. back porch
+    -- 1024x768 sync parameters (1344x806)
+    constant HD: integer := 1024;  -- H. display area
+    constant HF: integer := 24;   -- H. front porch
+    constant HR: integer := 136;   -- H. retrace
+    constant HB: integer := 160;   -- H. back porch
 
-    constant VD: integer := 480;  -- V. display area
-    constant VF: integer := 10;   -- V. front porch
-    constant VR: integer := 2;    -- V. retrace
-    constant VB: integer := 33;   -- V. back porch
+    constant VD: integer := 768;  -- V. display area
+    constant VF: integer := 3;   -- V. front porch
+    constant VR: integer := 6;    -- V. retrace
+    constant VB: integer := 29;   -- V. back porch
 
     -- Mod-2 counter
     signal mod2_reg, mod2_next: std_logic;
     -- Sync counters
-    signal h_count_reg, h_count_next: std_logic_vector (9 downto 0);
+    signal h_count_reg, h_count_next: std_logic_vector (10 downto 0);
     signal v_count_reg, v_count_next: std_logic_vector (9 downto 0);
     -- Output buffer
     signal h_sync_reg, v_sync_reg: std_logic;
