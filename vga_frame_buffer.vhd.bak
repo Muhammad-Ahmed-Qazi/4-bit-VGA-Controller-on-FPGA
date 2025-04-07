@@ -1,0 +1,53 @@
+library ieee;
+use ieee.std_logic_1164.all;
+use ieee.numeric_std.all;
+
+entity frame_buffer is
+    generic (
+        FRAME_WIDTH  : integer := 1024;  -- XGA width
+        FRAME_HEIGHT : integer := 768;   -- XGA height
+        PIXEL_BITS   : integer := 8     -- 8-bit per pixel (3-3-2 RGB)
+    );
+    port (
+        clk      : in std_logic;
+        we       : in std_logic;  -- Write enable
+        address  : in unsigned(19 downto 0); -- 20-bit address for up to 1M pixels
+        data_in  : in std_logic_vector(PIXEL_BITS-1 downto 0);
+        data_out : out std_logic_vector(PIXEL_BITS-1 downto 0)
+    );
+end frame_buffer;
+
+architecture rtl of frame_buffer is
+
+    -- Calculate memory depth: enough for FRAME_WIDTH * FRAME_HEIGHT pixels
+    constant MEM_DEPTH : integer := FRAME_WIDTH * FRAME_HEIGHT;
+
+    -- Frame buffer memory array
+    type mem_array is array (0 to MEM_DEPTH - 1) of std_logic_vector(PIXEL_BITS - 1 downto 0);
+
+    signal memory : mem_array := (others => (others => '0'));
+
+begin
+
+    process (clk)
+        variable addr_int : integer;
+    begin
+        if rising_edge(clk) then
+            addr_int := to_integer(address);
+
+            if addr_int < MEM_DEPTH then
+                -- Write
+                if we = '1' then
+                    memory(addr_int) <= data_in;
+                end if;
+
+                -- Read
+                data_out <= memory(addr_int);
+            else
+                -- Out-of-bounds safety (optional)
+                data_out <= (others => '0');
+            end if;
+        end if;
+    end process;
+
+end rtl;

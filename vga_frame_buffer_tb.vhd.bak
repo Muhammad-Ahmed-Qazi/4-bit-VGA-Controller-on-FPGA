@@ -1,0 +1,80 @@
+LIBRARY ieee;
+USE ieee.std_logic_1164.ALL;
+USE ieee.numeric_std.ALL;
+
+ENTITY frame_buffer_tb IS
+END frame_buffer_tb;
+
+ARCHITECTURE testbench OF frame_buffer_tb IS
+    -- Frame buffer parameters
+    CONSTANT FRAME_WIDTH  : integer := 1024;
+    CONSTANT FRAME_HEIGHT : integer := 768;
+    CONSTANT PIXEL_BITS   : integer := 24;  -- 24-bit color
+
+    -- Signals to connect to the UUT
+    SIGNAL clk     : STD_LOGIC := '0';
+    SIGNAL we      : STD_LOGIC := '0';
+    SIGNAL address : UNSIGNED(19 DOWNTO 0) := (OTHERS => '0');
+    SIGNAL data_in : STD_LOGIC_VECTOR(PIXEL_BITS-1 DOWNTO 0) := (OTHERS => '0');
+    SIGNAL data_out: STD_LOGIC_VECTOR(PIXEL_BITS-1 DOWNTO 0);
+
+    -- Clock period (25 MHz)
+    CONSTANT clk_period : TIME := 15.385 ns;
+
+BEGIN
+    -- Instantiate the Unit Under Test (UUT)
+    UUT: ENTITY work.frame_buffer
+    PORT MAP (
+        clk     => clk,
+        we      => we,
+        address => address,
+        data_in => data_in,
+        data_out=> data_out
+    );
+
+    -- Clock Process
+    clk_process : PROCESS
+    BEGIN
+        WHILE NOW < 18 ms LOOP
+            clk <= '0';
+            WAIT FOR clk_period / 2;
+            clk <= '1';
+            WAIT FOR clk_period / 2;
+        END LOOP;
+        WAIT;
+    END PROCESS;
+
+    -- Stimulus Process
+    stimulus_process : PROCESS
+    BEGIN
+        -- Reset Phase
+        we <= '0';
+        WAIT FOR 100 ns;
+
+        -- WRITE DATA TO FRAME BUFFER (Pattern: Color Gradient)
+        FOR y IN 0 TO FRAME_HEIGHT - 1 LOOP
+            FOR x IN 0 TO FRAME_WIDTH - 1 LOOP
+                address <= TO_UNSIGNED(y * FRAME_WIDTH + x, 20);
+                data_in <= STD_LOGIC_VECTOR(TO_UNSIGNED((x MOD 256) & (y MOD 256) & (x*y MOD 256), 24));
+                we <= '1';
+                WAIT FOR clk_period;
+            END LOOP;
+        END LOOP;
+
+        -- Stop Writing
+        we <= '0';
+        WAIT FOR 1 us;
+
+        -- READ DATA FROM FRAME BUFFER (Check stored values)
+        FOR y IN 0 TO 5 LOOP  -- Checking only first few rows
+            FOR x IN 0 TO 5 LOOP
+                address <= TO_UNSIGNED(y * FRAME_WIDTH + x, 20);
+                WAIT FOR clk_period;
+            END LOOP;
+        END LOOP;
+
+        -- End Simulation
+        WAIT;
+    END PROCESS;
+
+END testbench;

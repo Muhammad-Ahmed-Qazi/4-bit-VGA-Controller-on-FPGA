@@ -11,7 +11,7 @@ ARCHITECTURE testbench OF vga_sync_tb IS
     SIGNAL hsync, vsync, video_on: STD_LOGIC;
     SIGNAL p_tick: STD_LOGIC;
     SIGNAL pixel_x: STD_LOGIC_VECTOR(10 DOWNTO 0);
-	 SIGNAL pixel_y: STD_LOGIC_VECTOR(9 DOWNTO 0);
+	SIGNAL pixel_y: STD_LOGIC_VECTOR(9 DOWNTO 0);
     
     -- Clock period
     CONSTANT clk_period : TIME := 15.385 ns;  -- 25 MHz clock
